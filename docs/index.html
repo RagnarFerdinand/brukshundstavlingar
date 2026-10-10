@@ -24,12 +24,13 @@
 <script>
 const $ = id => document.getElementById(id);
 let klubbar = [], tavlingar = [];
+const STATUS = {opened: "anmälan öppen", closed: "anmälan stängd", late: "efteranmälan", published: "ej öppnad"};
 function rita() {
   const d = $("distrikt").value, q = $("sok").value.toLowerCase();
   const ok = x => (!d || x.distrikt === d) &&
     (!q || Object.values(x).join(" ").toLowerCase().includes(q));
   $("tavlingar").innerHTML = tavlingar.filter(ok).map(t =>
-    `<li><b>${t.datum}</b> ${t.typ} – ${t.klubb}</li>`).join("") ||
+    `<li><b>${t.datum}</b> ${t.typ} – ${t.klubb} <span class="liten">${t.distrikt} · ${STATUS[t.status] || t.status}</span></li>`).join("") ||
     "<li class='liten'>Inga tävlingar inlästa än.</li>";
   $("klubbar").innerHTML = klubbar.filter(ok).map(k =>
     `<li>${k.namn} <span class="liten">${k.distrikt}</span></li>`).join("");
