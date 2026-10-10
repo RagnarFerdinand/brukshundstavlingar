@@ -15,6 +15,7 @@
 <body>
 <h1>Brukshundstävlingar</h1>
 <p id="status" class="liten">Laddar…</p>
+<select id="typ"><option value="">Alla typer</option></select>
 <select id="distrikt"><option value="">Alla distrikt</option></select>
 <input id="sok" type="search" placeholder="Sök klubb eller tävling">
 <h2>Tävlingar</h2>
@@ -26,13 +27,13 @@ const $ = id => document.getElementById(id);
 let klubbar = [], tavlingar = [];
 const STATUS = {opened: "anmälan öppen", closed: "anmälan stängd", late: "efteranmälan", published: "ej öppnad"};
 function rita() {
-  const d = $("distrikt").value, q = $("sok").value.toLowerCase();
-  const ok = x => (!d || x.distrikt === d) &&
+  const d = $("distrikt").value, q = $("sok").value.toLowerCase(), ty = $("typ").value;
+  const ok = x => (!d || x.distrikt === d) && (!ty || x.typ === ty) &&
     (!q || Object.values(x).join(" ").toLowerCase().includes(q));
   $("tavlingar").innerHTML = tavlingar.filter(ok).map(t =>
     `<li><b>${t.datum}</b> ${t.typ} – ${t.klubb} <span class="liten">${t.distrikt} · ${STATUS[t.status] || t.status}</span></li>`).join("") ||
     "<li class='liten'>Inga tävlingar inlästa än.</li>";
-  $("klubbar").innerHTML = klubbar.filter(ok).map(k =>
+  $("klubbar").innerHTML = klubbar.filter(x => !ty && ok(x)).map(k =>
     `<li>${k.namn} <span class="liten">${k.distrikt}</span></li>`).join("");
 }
 Promise.all([
@@ -42,10 +43,12 @@ Promise.all([
   klubbar = k; tavlingar = t.tavlingar;
   [...new Set(k.map(x => x.distrikt))].sort((a, b) => a.localeCompare(b, "sv"))
     .forEach(n => $("distrikt").add(new Option(n, n)));
+  [...new Set(t.tavlingar.map(x => x.typ).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"))
+    .forEach(n => $("typ").add(new Option(n, n)));
   $("status").textContent = `${k.length} klubbar. Tävlingar uppdaterade: ${t.uppdaterad || "aldrig"}`;
   rita();
 });
-$("distrikt").onchange = $("sok").oninput = rita;
+$("typ").onchange = $("distrikt").onchange = $("sok").oninput = rita;
 </script>
 </body>
 </html>
