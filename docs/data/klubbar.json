@@ -1,0 +1,1110 @@
+[
+ {
+  "distrikt": "Blekinge",
+  "namn": "Karlshamn"
+ },
+ {
+  "distrikt": "Blekinge",
+  "namn": "Karlskrona"
+ },
+ {
+  "distrikt": "Blekinge",
+  "namn": "Olofström"
+ },
+ {
+  "distrikt": "Blekinge",
+  "namn": "Ronneby"
+ },
+ {
+  "distrikt": "Blekinge",
+  "namn": "Rödeby"
+ },
+ {
+  "distrikt": "Blekinge",
+  "namn": "Sölvesborg"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Avesta"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Borlänge"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Falu"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Gagnef-Floda"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Hedemora-Säter"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Ludvika"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Malung-Sälen"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Mora"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Nedansiljan"
+ },
+ {
+  "distrikt": "Dalarna",
+  "namn": "Särna-Idre"
+ },
+ {
+  "distrikt": "Gotland",
+  "namn": "Norra Gotland"
+ },
+ {
+  "distrikt": "Gotland",
+  "namn": "Södra Gotland"
+ },
+ {
+  "distrikt": "Gotland",
+  "namn": "Visby"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Bollnäs"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Edsbyn"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Gävle"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Hofors"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Hudiksvall"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Järvsö"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Ljusdal"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Ockelbo"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Sandviken"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Skutskär"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Söderhamn"
+ },
+ {
+  "distrikt": "Gävleborg",
+  "namn": "Valbo"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Falkenberg"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Hallaberg"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Laholm"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Oskarström"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "SBK:s Halmstadsavdelning"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Ullared"
+ },
+ {
+  "distrikt": "Halland",
+  "namn": "Varberg"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Brunflo"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Härnösand"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Kramfors"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Matfors"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Njurunda"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Ragunda"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Sollefteå"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Strömsund"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Sundsvall"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Timrå"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Västra Härjedalen"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Västra Medelpad"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Åre"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Örnsköldsvik"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Östersund"
+ },
+ {
+  "distrikt": "Mellannorrland",
+  "namn": "Östra Härjedalen"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Askersund"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Degerfors"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Hallsberg"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Knottebo"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Kopparberg"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Kumla"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Lindesberg"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Nora"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Örebro"
+ },
+ {
+  "distrikt": "Närke",
+  "namn": "Örebro Hundsällskap"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Billinge"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Falbygden"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Götene"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Habo"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Hjo"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Karlsborg"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Lidköping"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Mariestad"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Mullsjö"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Skara"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Skövde"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Tibro"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Tidaholm"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Tomten"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Töreboda"
+ },
+ {
+  "distrikt": "Skaraborg",
+  "namn": "Vara-Grästorp"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Bjuv"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Burlöv"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Eslöv"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Forsakar"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Göinge-Broby"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Helsingborg"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Hässleholm"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Höganäs"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Hörby"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Höör"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Kristianstad"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Landskrona"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Lomma"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Lund"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Markaryd"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Osby"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Råådalen"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "SBK:s Malmöavdelning"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Simrishamn"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Sjöbo"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Skanör-Falsterbo"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Skurup"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Svalöv"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Svedala"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Söderåsen"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Tollarp"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Trelleborg"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Tygelsjö"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Veberöd"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Ystad"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Åhus"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Ängelholm"
+ },
+ {
+  "distrikt": "Skåne",
+  "namn": "Örkelljunga"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Aneby"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Eksjö"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Emmaboda"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Forserum"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Gislaved Västbo"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Gnosjö"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Hultsfred"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Högsby"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Jönköping"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Kalmar"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Lesseboorten"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Ljungby"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Mönsterås"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Njudung"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Nybro"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Nässjö"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Oskarshamn"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Saxnäs"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Skillingaryd Attila"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Smålandsstenar"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Sommenbygden"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Sävsjö"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Tingsryd"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Torsås"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Tranås"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Vetlanda"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Värnamo"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Växjö"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Åseda-Lenhovda"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Älmhult"
+ },
+ {
+  "distrikt": "Småland",
+  "namn": "Öland"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Danderyd-Täby"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Järfälla"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Lidingö"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Mälarö"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Nacka"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "SBK:s Stockholmsavdelning"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Solna-Sundbyberg"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Stockholms Södra"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Tyresö"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Waxholm"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Vällingby"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Värmdö"
+ },
+ {
+  "distrikt": "Stockholm",
+  "namn": "Österåker"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Botkyrka"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Eskilstuna"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Flen"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Gnesta-Trosa"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Haninge"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Hölö-Mörkö"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Katrineholm"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Nyköping"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Nynäshamn"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Oxelösund"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Strängnäs"
+ },
+ {
+  "distrikt": "Sörmland",
+  "namn": "Södertälje"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Alunda"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Bro-Håbo"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Enköping"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Heby"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Häverö"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Knivsta"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Märsta-Sigtuna"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Roslagen"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Tierp"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Uppsala"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Vallentuna"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Väsby"
+ },
+ {
+  "distrikt": "Uppland",
+  "namn": "Östhammar"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Arvika"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Bengtsfors"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Eds"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Filipstad"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Forshaga"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Grums"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Hagfors"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Hammarö"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Hällefors"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Karlskoga"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Karlstad"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Kils"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Kristinehamn"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Mellerud"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Munkfors"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Sunne"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Säffle"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Torsby"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Åmål"
+ },
+ {
+  "distrikt": "Värmland-Dal",
+  "namn": "Årjäng"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Arboga"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Fagersta"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Hallstahammar"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Kungsör"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Köping"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Sala"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Skultuna"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Surahammar"
+ },
+ {
+  "distrikt": "Västmanland",
+  "namn": "Västerås"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Ale"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Alingsås"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Angered"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Borås"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Elfsborg"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Färgelanda"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Göteborg-Mölndal"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Herrljunga"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Kind"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Kungsbacka"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Kungälv"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Lerum"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Lilla Edet"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Lysekil"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Mark"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Munkedal"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Orust"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Partille"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "SBK:s Göteborgsavdelning"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Stenungssund"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Strömstad"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Tanum"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Tjörn"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Torslanda-Öckerö"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Trollhättan"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Uddevalla"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Ulricehamn"
+ },
+ {
+  "distrikt": "Västra",
+  "namn": "Vänersborg"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Boxholm"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Finspång"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Gamleby"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Linköping"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Mjölby"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Motala"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Norrköping"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Söderköping"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Vadstena"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Valdemarsvik"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Vimmerby"
+ },
+ {
+  "distrikt": "Östergötland",
+  "namn": "Västervik"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Arjeplog"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Arvidsjaur"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Boden"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Haparanda"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Holmsund"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Jokkmokk"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Kalix"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Kiruna"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Lappmarken"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Luleå"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Lycksele"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Malmen"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Malå"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Nordmaling"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Norsjö"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Piteå"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Skellefteå"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Sorsele"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Storuman"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Umeå"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Vilhelmina"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Vännäs"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Åbyn-Byske"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Åsele"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Älvsbyn"
+ },
+ {
+  "distrikt": "Övre Norrland",
+  "namn": "Överkalix"
+ }
+]
