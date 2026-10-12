@@ -1,280 +1,6 @@
 {
- "uppdaterad": "2026-10-11",
+ "uppdaterad": "2026-10-12",
  "tavlingar": [
-  {
-   "id": "55049",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Rallylydnad",
-   "klubb": "Elfsborgs Brukshundklubb",
-   "distrikt": "Västra",
-   "status": "closed",
-   "anmalan_start": "2026-06-08 08:57",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare",
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": "www.elfsborgsbhk.se"
-  },
-  {
-   "id": "53221",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Bruks",
-   "klubb": "Falkenbergs Brukshundklubb",
-   "distrikt": "Halland",
-   "status": "closed",
-   "anmalan_start": "2025-10-27 04:55",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Spår appellklass"
-   ],
-   "url": "http://www.falkenbergsbk.se"
-  },
-  {
-   "id": "55008",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Lydnad",
-   "klubb": "Falkenbergs Brukshundklubb",
-   "distrikt": "Halland",
-   "status": "closed",
-   "anmalan_start": "2026-05-25 13:08",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Lydnad Startklass"
-   ],
-   "url": "http://www.falkenbergsbk.se"
-  },
-  {
-   "id": "54155",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Mentalbeskrivning (MH)",
-   "klubb": "Götene Brukshundklubb",
-   "distrikt": "Skaraborg",
-   "status": "late",
-   "anmalan_start": "2026-01-01 16:51",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Mentalbeskrivning (MH)"
-   ],
-   "url": "http://www.gotenebk.com"
-  },
-  {
-   "id": "55371",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Specialsök",
-   "klubb": "Hallstahammar Brukshundklubb",
-   "distrikt": "Västmanland",
-   "status": "closed",
-   "anmalan_start": "2026-08-16 18:09",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Specialsök klass 1"
-   ],
-   "url": "http://www.hallstahammarbk.se"
-  },
-  {
-   "id": "55273",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Mentalbeskrivning (MH)",
-   "klubb": "Hammarö Brukshundklubb",
-   "distrikt": "Värmland-Dal",
-   "status": "closed",
-   "anmalan_start": "2026-07-20 14:24",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Mentalbeskrivning (MH)"
-   ],
-   "url": "http://www.hammarobrukshundklubb.se/"
-  },
-  {
-   "id": "55413",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Specialsök",
-   "klubb": "Kramfors Brukshundklubb",
-   "distrikt": "Mellannorrland",
-   "status": "closed",
-   "anmalan_start": "2026-08-27 17:09",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Specialsök klass 1",
-    "Specialsök klass 2"
-   ],
-   "url": "www.kramfors-brukshundklubb.webnode.se"
-  },
-  {
-   "id": "53462",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "IGP",
-   "klubb": "Norrköpings Brukshundklubb",
-   "distrikt": "Östergötland",
-   "status": "closed",
-   "anmalan_start": "2025-10-29 09:03",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "BSL Klass 1",
-    "BSL Klass 2",
-    "BSL Klass 3",
-    "IGP-1",
-    "IGP-2",
-    "IGP-3"
-   ],
-   "url": "http://norrkopingsbrukshundklubb.se/"
-  },
-  {
-   "id": "55349",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Mentalbeskrivning (MH)",
-   "klubb": "Roslagens Brukshundklubb",
-   "distrikt": "Uppland",
-   "status": "closed",
-   "anmalan_start": "2026-08-12 13:02",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Mentalbeskrivning (MH)"
-   ],
-   "url": "http://www.roslagensbk.se"
-  },
-  {
-   "id": "53260",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Bruks",
-   "klubb": "SBKs Halmstadsavd.",
-   "distrikt": "Halland",
-   "status": "closed",
-   "anmalan_start": "2025-10-27 04:55",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Spår elitklass",
-    "Spår elitklass"
-   ],
-   "url": "sbkhalmstad.se"
-  },
-  {
-   "id": "55691",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Mentalbeskrivning (MH)",
-   "klubb": "Schäferhundklubben Enköping",
-   "distrikt": "Schäfer Västmanland",
-   "status": "closed",
-   "anmalan_start": "",
-   "anmalan_slut": "",
-   "klasser": [
-    "Mentalbeskrivning (MH)",
-    "Mentalbeskrivning (MH)"
-   ],
-   "url": "www.skenkoping.se"
-  },
-  {
-   "id": "52550",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "IGP",
-   "klubb": "Schäferhundklubben Solsta",
-   "distrikt": "Schäfer Värmland",
-   "status": "closed",
-   "anmalan_start": "2025-09-23 19:40",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "IGP-1"
-   ],
-   "url": "http://www.sksolsta.se/"
-  },
-  {
-   "id": "53680",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "IGP",
-   "klubb": "Schäferhundklubben Åstorp",
-   "distrikt": "Schäfer Skåne-Blekinge",
-   "status": "closed",
-   "anmalan_start": "2025-11-11 15:15",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "BH/VT",
-    "IGP-1",
-    "IGP-2",
-    "IGP-3",
-    "IFH 1 ",
-    "IFH 2 ",
-    "IFH 3 "
-   ],
-   "url": ""
-  },
-  {
-   "id": "55410",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Specialsök",
-   "klubb": "Svenska Brukshundsklubbens Malmöavd",
-   "distrikt": "Skåne",
-   "status": "closed",
-   "anmalan_start": "2026-08-27 12:49",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Specialsök klass 2"
-   ],
-   "url": "http://www.sbkmalmo.se/"
-  },
-  {
-   "id": "54876",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Bruks",
-   "klubb": "Svenska australian shepherdklubben",
-   "distrikt": "Rasklubb",
-   "status": "closed",
-   "anmalan_start": "2026-05-18 14:57",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Sök elitklass"
-   ],
-   "url": "www.sask.nu"
-  },
-  {
-   "id": "54157",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Mentalbeskrivning (MH)",
-   "klubb": "Tollarps Brukshundklubb",
-   "distrikt": "Skåne",
-   "status": "closed",
-   "anmalan_start": "2026-01-02 09:27",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Mentalbeskrivning (MH)"
-   ],
-   "url": "https://brukshundklubben.se/tollarps-brukshundklubb/"
-  },
-  {
-   "id": "55187",
-   "datum": "2026-10-11",
-   "slutdatum": "2026-10-11",
-   "typ": "Bruks",
-   "klubb": "Trollhättans Brukshundklubb",
-   "distrikt": "Västra",
-   "status": "closed",
-   "anmalan_start": "2026-06-30 18:21",
-   "anmalan_slut": "2026-09-20 23:59",
-   "klasser": [
-    "Sök lägre klass",
-    "Sök högre klass",
-    "Sök elitklass"
-   ],
-   "url": "www.tbhk.se"
-  },
   {
    "id": "55727",
    "datum": "2026-10-14",
@@ -410,7 +136,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Hällefors Brukshundklubb",
    "distrikt": "Värmland-Dal",
-   "status": "closed",
+   "status": "late",
    "anmalan_start": "2026-06-16 13:49",
    "anmalan_slut": "2026-09-26 23:59",
    "klasser": [
@@ -1724,7 +1450,7 @@
    "typ": "Lydnad",
    "klubb": "Timrå Brukshundklubb",
    "distrikt": "Mellannorrland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-04-30 18:16",
    "anmalan_slut": "2026-10-03 23:59",
    "klasser": [
@@ -2314,7 +2040,7 @@
    "typ": "Lydnad",
    "klubb": "Ale Brukshundklubb",
    "distrikt": "Västra",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-02 10:14",
    "anmalan_slut": "2026-10-09 23:59",
    "klasser": [
@@ -2329,7 +2055,7 @@
    "typ": "Specialsök",
    "klubb": "Eskilstuna Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-09-02 14:53",
    "anmalan_slut": "2026-10-09 23:59",
    "klasser": [
@@ -2344,7 +2070,7 @@
    "typ": "Rallylydnad",
    "klubb": "Valbo Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-05-02 18:45",
    "anmalan_slut": "2026-10-09 23:59",
    "klasser": [
@@ -2360,7 +2086,7 @@
    "typ": "Lydnad",
    "klubb": "Västra Medelpads Brukshundklubb",
    "distrikt": "Mellannorrland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-04-30 18:17",
    "anmalan_slut": "2026-10-09 23:59",
    "klasser": [
@@ -2377,7 +2103,7 @@
    "typ": "Specialsök",
    "klubb": "Botkyrka Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-05-05 05:40",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2393,7 +2119,7 @@
    "typ": "Bruks",
    "klubb": "Eskilstuna Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-09 16:12",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2410,7 +2136,7 @@
    "typ": "Bruks",
    "klubb": "Falbygdens Brukshundklubb",
    "distrikt": "Skaraborg",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-28 13:59",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2427,7 +2153,7 @@
    "typ": "Rallylydnad",
    "klubb": "Hallabergs Brukshundklubb, Genevad",
    "distrikt": "Halland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-31 20:27",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2439,21 +2165,6 @@
     "Rallylydnad avancerad"
    ],
    "url": ""
-  },
-  {
-   "id": "55366",
-   "datum": "2026-10-31",
-   "slutdatum": "2026-10-31",
-   "typ": "Specialsök",
-   "klubb": "Hudiksvalls Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "opened",
-   "anmalan_start": "2026-08-16 07:31",
-   "anmalan_slut": "2026-10-10 23:59",
-   "klasser": [
-    "Specialsök klass 2"
-   ],
-   "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
    "id": "55799",
@@ -2474,13 +2185,28 @@
    "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
+   "id": "55366",
+   "datum": "2026-10-31",
+   "slutdatum": "2026-10-31",
+   "typ": "Specialsök",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "closed",
+   "anmalan_start": "2026-08-16 07:31",
+   "anmalan_slut": "2026-10-10 23:59",
+   "klasser": [
+    "Specialsök klass 2"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
+  },
+  {
    "id": "55119",
    "datum": "2026-10-31",
    "slutdatum": "2026-10-31",
    "typ": "Rallylydnad",
    "klubb": "Höganäs Brukshundklubb",
    "distrikt": "Skåne",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-06-18 20:17",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2498,7 +2224,7 @@
    "typ": "IGP",
    "klubb": "Järfälla Brukshundklubb",
    "distrikt": "Stockholm",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-09-30 11:29",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2513,7 +2239,7 @@
    "typ": "IGP",
    "klubb": "Karlskrona Brukshundklubb",
    "distrikt": "Blekinge",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-06-01 14:58",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2531,7 +2257,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Njudungs BK (Vetlanda)                        ",
    "distrikt": "Småland",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-09-02 20:06",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2546,7 +2272,7 @@
    "typ": "IGP",
    "klubb": "Nynäshamns Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-09-08 05:41",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2561,7 +2287,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Schäferhundklubben Höglandet",
    "distrikt": "Rasklubb",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2025-06-24 11:41",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2576,7 +2302,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Schäferhundklubben Romelanda",
    "distrikt": "Schäfer Västra",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-04-23 22:01",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2591,7 +2317,7 @@
    "typ": "Specialsök",
    "klubb": "Söderhamns Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-08-29 19:54",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2606,7 +2332,7 @@
    "typ": "Lydnad",
    "klubb": "Söderköpings Brukshundklubb",
    "distrikt": "Östergötland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-29 09:04",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2624,7 +2350,7 @@
    "typ": "Lydnad",
    "klubb": "Södertälje Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-10-06 06:14",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2641,7 +2367,7 @@
    "typ": "Bruks",
    "klubb": "Tollarps Brukshundklubb",
    "distrikt": "Skåne",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-01 08:14",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2656,7 +2382,7 @@
    "typ": "Bruks",
    "klubb": "Tollarps Brukshundklubb",
    "distrikt": "Skåne",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-01 08:14",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2671,7 +2397,7 @@
    "typ": "Lydnad",
    "klubb": "Ullareds Brukshundklubb",
    "distrikt": "Halland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-04-22 12:53",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2687,7 +2413,7 @@
    "typ": "Specialsök",
    "klubb": "Umeå Brukshundklubb",
    "distrikt": "Övre Norrland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-07-30 09:38",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2704,7 +2430,7 @@
    "typ": "Lydnad",
    "klubb": "Värmdö Brukshundklubb",
    "distrikt": "Stockholm",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-25 18:29",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2722,7 +2448,7 @@
    "typ": "Specialsök",
    "klubb": "Flens Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-22 20:20",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2737,7 +2463,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Götene Brukshundklubb",
    "distrikt": "Skaraborg",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-01-01 16:53",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2752,7 +2478,7 @@
    "typ": "Rallylydnad",
    "klubb": "Hallabergs Brukshundklubb, Genevad",
    "distrikt": "Halland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-31 20:28",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2769,7 +2495,7 @@
    "typ": "Specialsök",
    "klubb": "Höganäs Brukshundklubb",
    "distrikt": "Skåne",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-08-28 13:20",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2784,7 +2510,7 @@
    "typ": "Lydnad",
    "klubb": "Knivsta Brukshundklubb",
    "distrikt": "Uppland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-19 16:10",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2801,7 +2527,7 @@
    "typ": "Bruks",
    "klubb": "Lindesbergs Brukshundklubb",
    "distrikt": "Närke",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-30 11:41",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2818,7 +2544,7 @@
    "typ": "Rallylydnad",
    "klubb": "Marks Brukshundklubb",
    "distrikt": "Västra",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-03-24 12:13",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2834,7 +2560,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Njurunda Brukshundklubb",
    "distrikt": "Mellannorrland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-08-21 04:33",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2849,7 +2575,7 @@
    "typ": "Bruks",
    "klubb": "Nynäshamns Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2025-11-01 19:05",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2864,7 +2590,7 @@
    "typ": "Lydnad",
    "klubb": "SBK:s Göteborgsavdelning",
    "distrikt": "Västra",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-03 20:29",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2882,7 +2608,7 @@
    "typ": "Bruks",
    "klubb": "Sandvikens Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-03-12 07:20",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2897,7 +2623,7 @@
    "typ": "IGP",
    "klubb": "Schäferhundklubben Sölvesborg",
    "distrikt": "Schäfer Skåne-Blekinge",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-09-01 19:06",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2915,7 +2641,7 @@
    "typ": "IGP",
    "klubb": "Schäferhundklubben Åsaka",
    "distrikt": "Schäfer Västra",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2025-11-17 12:27",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2935,7 +2661,7 @@
    "typ": "Exteriörbeskrivning",
    "klubb": "Schäferhundklubben Åstorp",
    "distrikt": "Schäfer Skåne-Blekinge",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-08-26 12:45",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2950,7 +2676,7 @@
    "typ": "IGP",
    "klubb": "Svenska dobermannklubben",
    "distrikt": "Rasklubb",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-08-28 11:20",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2967,7 +2693,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Sölvesborgs Brukshundklubb",
    "distrikt": "Blekinge",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-09-09 16:30",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2982,7 +2708,7 @@
    "typ": "Bruks",
    "klubb": "Tierps Brukshundklubb",
    "distrikt": "Uppland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-10-31 13:59",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -2999,7 +2725,7 @@
    "typ": "Bruks",
    "klubb": "Tollarps Brukshundklubb",
    "distrikt": "Skåne",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-01 08:14",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -3014,7 +2740,7 @@
    "typ": "Lydnad",
    "klubb": "Ullareds Brukshundklubb",
    "distrikt": "Halland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-04-22 12:53",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -3032,7 +2758,7 @@
    "typ": "Specialsök",
    "klubb": "Umeå Brukshundklubb",
    "distrikt": "Övre Norrland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-07-30 09:57",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -3049,7 +2775,7 @@
    "typ": "Bruks",
    "klubb": "Västerviks Brukshundklubb",
    "distrikt": "Östergötland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-01 19:23",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -3064,7 +2790,7 @@
    "typ": "Bruks",
    "klubb": "Växjö Brukshundklubb",
    "distrikt": "Småland",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2025-11-13 20:05",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -4607,13 +4333,28 @@
    "url": "http://www.sbk-gmbk.se"
   },
   {
+   "id": "55918",
+   "datum": "2026-11-28",
+   "slutdatum": "2026-11-28",
+   "typ": "Specialsök",
+   "klubb": "Karlskoga Brukshundklubb",
+   "distrikt": "Värmland-Dal",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 16:55",
+   "anmalan_slut": "2026-11-07 23:59",
+   "klasser": [
+    "Specialsök klass 1"
+   ],
+   "url": "http://www.karlskogabhk.se"
+  },
+  {
    "id": "54564",
    "datum": "2026-11-28",
    "slutdatum": "2026-11-28",
    "typ": "Lydnad",
    "klubb": "Kungsörs Brukshundklubb",
    "distrikt": "Västmanland",
-   "status": "opened",
+   "status": "published",
    "anmalan_start": "2026-03-25 16:53",
    "anmalan_slut": "2026-11-07 23:59",
    "klasser": [
@@ -5578,6 +5319,38 @@
    "url": "http://www.nynasbk.com"
   },
   {
+   "id": "55823",
+   "datum": "2027-01-09",
+   "slutdatum": "2027-01-09",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:26",
+   "anmalan_slut": "2026-12-19 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
+   "id": "55824",
+   "datum": "2027-01-10",
+   "slutdatum": "2027-01-10",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2026-12-20 23:59",
+   "klasser": [
+    "Lydnadsklass 1",
+    "Lydnadsklass 1"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
    "id": "55069",
    "datum": "2027-01-23",
    "slutdatum": "2027-01-23",
@@ -5771,6 +5544,37 @@
     "Rallylydnad avancerad"
    ],
    "url": "skeahundungdom.weebly.com"
+  },
+  {
+   "id": "55825",
+   "datum": "2027-03-06",
+   "slutdatum": "2027-03-06",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-02-13 23:59",
+   "klasser": [
+    "Lydnadsklass 2"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
+   "id": "55768",
+   "datum": "2027-03-07",
+   "slutdatum": "2027-03-07",
+   "typ": "Rallylydnad",
+   "klubb": "Kungsörs Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 17:57",
+   "anmalan_slut": "2027-02-14 23:59",
+   "klasser": [
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "www.kungsorsbhk.com"
   },
   {
    "id": "55729",
@@ -6019,6 +5823,22 @@
    "url": "www.orustbrukshundklubb.se"
   },
   {
+   "id": "55900",
+   "datum": "2027-04-10",
+   "slutdatum": "2027-04-10",
+   "typ": "Bruks",
+   "klubb": "Vällingby Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-03-20 23:59",
+   "klasser": [
+    "Spår lägre klass",
+    "Spår högre klass"
+   ],
+   "url": "http://www.vallingbybk.se/"
+  },
+  {
    "id": "55674",
    "datum": "2027-04-11",
    "slutdatum": "2027-04-11",
@@ -6083,6 +5903,21 @@
     "Lydnadsklass 2"
    ],
    "url": "http://www.torsbybk.com"
+  },
+  {
+   "id": "55941",
+   "datum": "2027-04-11",
+   "slutdatum": "2027-04-11",
+   "typ": "Bruks",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-03-21 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "www.tyresobk.se"
   },
   {
    "id": "55454",
@@ -6309,6 +6144,24 @@
     "Rallylydnad mästare"
    ],
    "url": "http://www.tranasbk.com"
+  },
+  {
+   "id": "55939",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "Rallylydnad",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning"
+   ],
+   "url": "www.tyresobk.se"
   },
   {
    "id": "55525",
@@ -6592,6 +6445,24 @@
     "Exteriörbeskrivning"
    ],
    "url": "www.svenskacollieklubben.se"
+  },
+  {
+   "id": "55942",
+   "datum": "2027-05-02",
+   "slutdatum": "2027-05-02",
+   "typ": "Lydnad",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-04-11 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "www.tyresobk.se"
   },
   {
    "id": "55613",
@@ -7008,6 +6879,24 @@
    "url": "www.kungsorsbhk.com"
   },
   {
+   "id": "55838",
+   "datum": "2027-05-16",
+   "slutdatum": "2027-05-16",
+   "typ": "Rallylydnad",
+   "klubb": "Mälarö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-04-25 23:59",
+   "klasser": [
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.malarobk.se"
+  },
+  {
    "id": "55837",
    "datum": "2027-05-20",
    "slutdatum": "2027-05-20",
@@ -7184,6 +7073,21 @@
    "url": "http://www.tjornsbk.se"
   },
   {
+   "id": "55826",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
    "id": "55539",
    "datum": "2027-05-29",
    "slutdatum": "2027-05-29",
@@ -7283,6 +7187,22 @@
     "Lydnadsklass 1"
    ],
    "url": "www.surabk.com"
+  },
+  {
+   "id": "55902",
+   "datum": "2027-06-02",
+   "slutdatum": "2027-06-02",
+   "typ": "Lydnad",
+   "klubb": "Vällingby Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:33",
+   "anmalan_slut": "2027-05-12 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 2"
+   ],
+   "url": "http://www.vallingbybk.se/"
   },
   {
    "id": "55551",
@@ -7633,6 +7553,36 @@
    "url": "http://www.ulricehamnsbk.se"
   },
   {
+   "id": "55827",
+   "datum": "2027-06-28",
+   "slutdatum": "2027-06-28",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-06-07 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
+   "id": "55828",
+   "datum": "2027-06-30",
+   "slutdatum": "2027-06-30",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-06-09 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
    "id": "55340",
    "datum": "2027-07-02",
    "slutdatum": "2027-07-02",
@@ -7950,6 +7900,22 @@
    "url": "http://www.arvikabrukshundklubb.se/df327f1d0a1c4821af4ccfeae5114696.html"
   },
   {
+   "id": "55903",
+   "datum": "2027-08-18",
+   "slutdatum": "2027-08-18",
+   "typ": "Lydnad",
+   "klubb": "Vällingby Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:33",
+   "anmalan_slut": "2027-07-28 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1"
+   ],
+   "url": "http://www.vallingbybk.se/"
+  },
+  {
    "id": "55606",
    "datum": "2027-08-21",
    "slutdatum": "2027-08-21",
@@ -8231,7 +8197,7 @@
    "url": "http://www.uddevallabhk.com/"
   },
   {
-   "id": "55530",
+   "id": "55529",
    "datum": "2027-09-04",
    "slutdatum": "2027-09-04",
    "typ": "Rallylydnad",
@@ -8246,7 +8212,7 @@
    "url": "http://www.uddevallabhk.com/"
   },
   {
-   "id": "55529",
+   "id": "55530",
    "datum": "2027-09-04",
    "slutdatum": "2027-09-04",
    "typ": "Rallylydnad",
@@ -8298,6 +8264,21 @@
     "IGP-3"
    ],
    "url": "www.skasaka.se"
+  },
+  {
+   "id": "55831",
+   "datum": "2027-09-05",
+   "slutdatum": "2027-09-05",
+   "typ": "Bruks",
+   "klubb": "Surahammars Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-08-15 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "www.surabk.com"
   },
   {
    "id": "55110",
@@ -8551,6 +8532,21 @@
    "url": "http://www.solvesborgsbrukshundklubb.se"
   },
   {
+   "id": "55943",
+   "datum": "2027-09-18",
+   "slutdatum": "2027-09-18",
+   "typ": "Bruks",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:33",
+   "anmalan_slut": "2027-08-28 23:59",
+   "klasser": [
+    "Spår elitklass"
+   ],
+   "url": "www.tyresobk.se"
+  },
+  {
    "id": "55809",
    "datum": "2027-09-19",
    "slutdatum": "2027-09-19",
@@ -8638,6 +8634,24 @@
    "url": "www.markarydsbrukshundklubb.se"
   },
   {
+   "id": "55839",
+   "datum": "2027-09-19",
+   "slutdatum": "2027-09-19",
+   "typ": "Rallylydnad",
+   "klubb": "Mälarö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-08-29 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning"
+   ],
+   "url": "http://www.malarobk.se"
+  },
+  {
    "id": "55531",
    "datum": "2027-09-19",
    "slutdatum": "2027-09-19",
@@ -8668,6 +8682,21 @@
     "Sök appellklass"
    ],
    "url": "http://www.solvesborgsbrukshundklubb.se"
+  },
+  {
+   "id": "55944",
+   "datum": "2027-09-19",
+   "slutdatum": "2027-09-19",
+   "typ": "Bruks",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:33",
+   "anmalan_slut": "2027-08-29 23:59",
+   "klasser": [
+    "Spår lägre klass"
+   ],
+   "url": "www.tyresobk.se"
   },
   {
    "id": "55701",
@@ -8717,6 +8746,22 @@
     "Spår högre klass"
    ],
    "url": "http://www.arvikabrukshundklubb.se/df327f1d0a1c4821af4ccfeae5114696.html"
+  },
+  {
+   "id": "55832",
+   "datum": "2027-09-26",
+   "slutdatum": "2027-09-26",
+   "typ": "Bruks",
+   "klubb": "Surahammars Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-09-05 23:59",
+   "klasser": [
+    "Spår lägre klass",
+    "Spår högre klass"
+   ],
+   "url": "www.surabk.com"
   },
   {
    "id": "55460",
@@ -8837,6 +8882,24 @@
     "Sök appellklass"
    ],
    "url": "www.karlshamnsbk.nu"
+  },
+  {
+   "id": "55833",
+   "datum": "2027-10-03",
+   "slutdatum": "2027-10-03",
+   "typ": "Lydnad",
+   "klubb": "Surahammars Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-09-12 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "www.surabk.com"
   },
   {
    "id": "55562",
@@ -8966,6 +9029,40 @@
    "url": "http://www.torsbybk.com"
   },
   {
+   "id": "55940",
+   "datum": "2027-10-23",
+   "slutdatum": "2027-10-23",
+   "typ": "Rallylydnad",
+   "klubb": "Tyresö Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 08:32",
+   "anmalan_slut": "2027-10-02 23:59",
+   "klasser": [
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.tyresobk.se"
+  },
+  {
+   "id": "55834",
+   "datum": "2027-10-24",
+   "slutdatum": "2027-10-24",
+   "typ": "Lydnad",
+   "klubb": "Surahammars Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-10-03 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "www.surabk.com"
+  },
+  {
    "id": "55403",
    "datum": "2027-11-06",
    "slutdatum": "2027-11-06",
@@ -9079,6 +9176,38 @@
     "Spår elitklass"
    ],
    "url": "http://www.sjobobk.se"
+  },
+  {
+   "id": "55829",
+   "datum": "2027-11-20",
+   "slutdatum": "2027-11-20",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:25",
+   "anmalan_slut": "2027-10-30 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.fagerstabk.com"
+  },
+  {
+   "id": "55830",
+   "datum": "2027-11-21",
+   "slutdatum": "2027-11-21",
+   "typ": "Lydnad",
+   "klubb": "Fagersta Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-11 10:24",
+   "anmalan_slut": "2027-10-31 23:59",
+   "klasser": [
+    "Lydnadsklass 1",
+    "Lydnadsklass 1"
+   ],
+   "url": "http://www.fagerstabk.com"
   },
   {
    "id": "55534",
