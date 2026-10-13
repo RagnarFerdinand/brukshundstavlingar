@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-12",
+ "uppdaterad": "2026-10-13",
  "tavlingar": [
   {
    "id": "55727",
@@ -8,7 +8,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Solna-Sundbybergs Brukshundklubb",
    "distrikt": "Stockholm",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-09-30 17:09",
    "anmalan_slut": "2026-09-23 23:59",
    "klasser": [
@@ -136,7 +136,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Hällefors Brukshundklubb",
    "distrikt": "Värmland-Dal",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-06-16 13:49",
    "anmalan_slut": "2026-09-26 23:59",
    "klasser": [
@@ -1882,7 +1882,7 @@
    "typ": "Bruks",
    "klubb": "Ulricehamns Brukshundklubb",
    "distrikt": "Västra",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2025-11-04 17:12",
    "anmalan_slut": "2026-10-04 23:59",
    "klasser": [
@@ -1923,21 +1923,6 @@
     "Lydnad Startklass"
    ],
    "url": "www.gavlebk.se"
-  },
-  {
-   "id": "55522",
-   "datum": "2026-10-26",
-   "slutdatum": "2026-10-26",
-   "typ": "Mentaltest (MT)",
-   "klubb": "Heby Brukshundklubb",
-   "distrikt": "Uppland",
-   "status": "closed",
-   "anmalan_start": "2026-09-15 11:40",
-   "anmalan_slut": "2026-10-05 23:59",
-   "klasser": [
-    "Mentaltest (MT)"
-   ],
-   "url": "http://www.hebybk.se"
   },
   {
    "id": "55235",
@@ -2617,6 +2602,21 @@
    "url": "http://www.sandvikensbk.hundpoolen.se"
   },
   {
+   "id": "55948",
+   "datum": "2026-11-01",
+   "slutdatum": "2026-11-01",
+   "typ": "Bruks",
+   "klubb": "Sandvikens Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "late",
+   "anmalan_start": "2026-10-12 18:51",
+   "anmalan_slut": "2026-10-11 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.sandvikensbk.hundpoolen.se"
+  },
+  {
    "id": "55445",
    "datum": "2026-11-01",
    "slutdatum": "2026-11-01",
@@ -2641,7 +2641,7 @@
    "typ": "IGP",
    "klubb": "Schäferhundklubben Åsaka",
    "distrikt": "Schäfer Västra",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2025-11-17 12:27",
    "anmalan_slut": "2026-10-11 23:59",
    "klasser": [
@@ -5099,6 +5099,24 @@
    "url": "www.gavlebk.se"
   },
   {
+   "id": "55949",
+   "datum": "2026-12-26",
+   "slutdatum": "2026-12-26",
+   "typ": "Rallylydnad",
+   "klubb": "Väsby Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "published",
+   "anmalan_start": "2026-10-12 18:54",
+   "anmalan_slut": "2026-12-05 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://vasbybrukshundklubb.se/"
+  },
+  {
    "id": "54932",
    "datum": "2026-12-27",
    "slutdatum": "2026-12-27",
@@ -5595,6 +5613,24 @@
    "url": "http://www.sbkeslov.se"
   },
   {
+   "id": "55914",
+   "datum": "2027-03-13",
+   "slutdatum": "2027-03-13",
+   "typ": "Rallylydnad",
+   "klubb": "Herrljunga Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-10-13 09:03",
+   "anmalan_slut": "2027-02-20 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://herrljungabhk.se/"
+  },
+  {
    "id": "55402",
    "datum": "2027-03-20",
    "slutdatum": "2027-03-20",
@@ -5789,6 +5825,24 @@
     "Skydd lägre klass"
    ],
    "url": "http://www.karlskronabk.se"
+  },
+  {
+   "id": "55945",
+   "datum": "2027-04-04",
+   "slutdatum": "2027-04-04",
+   "typ": "Lydnad",
+   "klubb": "Lomma Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 15:28",
+   "anmalan_slut": "2027-03-14 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2"
+   ],
+   "url": "http://www.lommabk.com/"
   },
   {
    "id": "55507",
@@ -6127,6 +6181,24 @@
     "Rallylydnad avancerad"
    ],
    "url": "www.markarydsbrukshundklubb.se"
+  },
+  {
+   "id": "55947",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "Rallylydnad",
+   "klubb": "Roslagens Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-10-13 07:23",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.roslagensbk.se"
   },
   {
    "id": "54985",
@@ -7255,6 +7327,24 @@
     "Spår högre klass"
    ],
    "url": "http://www.hagforsbrukshundklubb.se"
+  },
+  {
+   "id": "55910",
+   "datum": "2027-06-05",
+   "slutdatum": "2027-06-05",
+   "typ": "Rallylydnad",
+   "klubb": "Herrljunga Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-10-13 09:03",
+   "anmalan_slut": "2027-05-15 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "http://herrljungabhk.se/"
   },
   {
    "id": "55364",
@@ -8616,6 +8706,23 @@
     "Patrullhund elit"
    ],
    "url": "http://www.horbybk.se"
+  },
+  {
+   "id": "55946",
+   "datum": "2027-09-19",
+   "slutdatum": "2027-09-19",
+   "typ": "Bruks",
+   "klubb": "Lomma Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "opened",
+   "anmalan_start": "2026-10-12 15:28",
+   "anmalan_slut": "2027-08-29 23:59",
+   "klasser": [
+    "Sök lägre klass",
+    "Sök högre klass",
+    "Sök elitklass"
+   ],
+   "url": "http://www.lommabk.com/"
   },
   {
    "id": "55504",
