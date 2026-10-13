@@ -4,51 +4,222 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Brukshundstävlingar</title>
+<meta name="apple-mobile-web-app-title" content="Bruks">
+<meta name="theme-color" content="#2f5d8a">
 <style>
-  body{font:16px/1.4 system-ui,sans-serif;margin:0 auto;max-width:40rem;padding:1rem}
-  select,input{font:inherit;width:100%;padding:.5rem;margin:.25rem 0 .75rem;box-sizing:border-box}
-  li{padding:.35rem 0;border-bottom:1px solid #8884}
-  ul{list-style:none;padding:0}
-  .liten{color:#888;font-size:.85rem}
+  :root{--bg:#f6f5f2;--kort:#fff;--text:#1d1d1f;--gra:#7a7a7a;--linje:#e3e1dc;--bla:#2f5d8a;--chip:#e6eef6}
+  *{box-sizing:border-box}
+  body{font:17px/1.4 -apple-system,system-ui,sans-serif;margin:0 auto;max-width:36rem;padding:1rem;background:var(--bg);color:var(--text)}
+  button{font:inherit;color:inherit;cursor:pointer}
+  .rad{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin:.5rem 0 .6rem;position:relative}
+  .dd{position:static}
+  .ddknapp{background:var(--kort);border:1px solid var(--linje);border-radius:2rem;padding:.5rem 1rem}
+  .ddknapp.aktiv{background:var(--chip);border-color:var(--chip)}
+  .ddpanel{display:none;position:absolute;top:calc(100% + .4rem);left:0;right:0;z-index:5;background:#fff;border:1px solid var(--linje);border-radius:1rem;box-shadow:0 8px 24px #0002;max-height:60vh;overflow:auto}
+  .dd.oppen .ddpanel{display:block}
+  .rensa{display:block;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--linje);padding:.7rem 1.1rem;color:var(--bla)}
+  .info{color:var(--gra);margin:.25rem 0 1rem}
+  .kort{background:var(--kort);border:1px solid var(--linje);border-left:5px solid var(--bla);border-radius:1rem;padding:1rem 1.1rem;margin-bottom:1rem}
+  .topp{display:flex;align-items:baseline;gap:.8rem}
+  .datum{color:var(--bla);font-weight:600;font-size:1.1rem}
+  .typ{color:var(--gra)}
+  .pil{margin-left:auto;align-self:center;background:none;border:0;padding:.4rem;flex:none;color:var(--gra);font-size:.88rem;transition:transform .2s}
+  .kort.oppen .pil{transform:rotate(180deg)}
+  .klubb{font-weight:700;font-size:1.25rem;margin-top:.2rem}
+  .plats{color:var(--gra)}
+  .fot{display:none;justify-content:space-between;gap:1rem;border-top:1px solid var(--linje);margin-top:.8rem;padding-top:.8rem}
+  .fot b{text-align:right;white-space:nowrap}
+  .mer{display:none;margin-top:.8rem;color:var(--gra);font-size:.95rem}
+  .kort.oppen .mer{display:block}
+  .kort.oppen .fot{display:flex}
+  .mer a{color:var(--bla)}
+  .topp-rad{display:flex;gap:.6rem;align-items:center;margin:.25rem 0 .6rem}
+  .topp-rad .kaffe-knapp{flex:1.618;text-align:center}
+  .hoger{flex:1;display:flex;gap:.6rem}
+  .hoger .ikon{flex:1;width:auto;border-radius:2rem}
+  .rad .dd{flex:1}
+  .ddknapp{width:100%}
+  .kaffe-knapp{white-space:nowrap;text-decoration:none;font-weight:700;font-size:.95rem;color:#1d1d1b;background:#ffdd00;border-radius:999px;padding:.5rem 1rem;box-shadow:0 2px 6px rgb(0 0 0 / .18);}
+  .ikon{background:var(--kort);border:1px solid var(--linje);border-radius:50%;width:2.6rem;height:2.6rem;padding:0;font-size:1.1rem}
+  .toast{position:fixed;left:50%;bottom:1.5rem;transform:translateX(-50%);background:#1d1d1f;color:#fff;padding:.6rem 1rem;border-radius:2rem;font-size:.9rem;opacity:0;transition:opacity .2s;pointer-events:none}
+  .toast.syns{opacity:1}
+  .tom{color:var(--gra);text-align:center;padding:2rem 0}
+  .val{display:flex;align-items:center;gap:.8rem;padding:.8rem 1.1rem;border-bottom:1px solid var(--linje)}
+  .val input{width:1.3rem;height:1.3rem;accent-color:var(--bla)}
+  .val small{margin-left:auto;color:var(--gra)}
+  .sok{display:block;width:calc(100% - 2.2rem);margin:.7rem 1.1rem;padding:.5rem .8rem;font:inherit;border:1px solid var(--linje);border-radius:2rem}
 </style>
 </head>
 <body>
-<h1>Brukshundstävlingar</h1>
-<p id="status" class="liten">Laddar…</p>
-<select id="typ"><option value="">Alla typer</option></select>
-<select id="distrikt"><option value="">Alla distrikt</option></select>
-<input id="sok" type="search" placeholder="Sök klubb eller tävling">
-<h2>Tävlingar</h2>
-<ul id="tavlingar"></ul>
-<h2>Klubbar</h2>
-<ul id="klubbar"></ul>
+<div class="topp-rad">
+  <a class="kaffe-knapp" href="https://buymeacoffee.com/dogshows" target="_blank" rel="noopener">☕ Bjud på kaffe</a>
+  <span class="hoger">
+    <button class="ikon" id="uppdatera" aria-label="Uppdatera" title="Uppdatera">↻</button>
+    <button class="ikon" id="dela" aria-label="Dela" title="Dela">↗</button>
+  </span>
+</div>
+<div class="rad">
+  <div class="dd" id="typ"><button class="ddknapp"></button><div class="ddpanel"></div></div>
+  <div class="dd" id="klubb"><button class="ddknapp"></button><div class="ddpanel"></div></div>
+</div>
+<p class="info" id="info">Laddar…</p>
+<div id="lista"></div>
+<p class="info" id="uppdaterad"></p>
+
+<div class="toast" id="toast"></div>
+
 <script>
 const $ = id => document.getElementById(id);
-let klubbar = [], tavlingar = [];
-const STATUS = {opened: "anmälan öppen", closed: "anmälan stängd", late: "efteranmälan", published: "ej öppnad"};
-function rita() {
-  const d = $("distrikt").value, q = $("sok").value.toLowerCase(), ty = $("typ").value;
-  const ok = x => (!d || x.distrikt === d) && (!ty || x.typ === ty) &&
-    (!q || Object.values(x).join(" ").toLowerCase().includes(q));
-  $("tavlingar").innerHTML = tavlingar.filter(ok).map(t =>
-    `<li><b>${t.datum}</b> ${t.typ} – ${t.klubb} <span class="liten">${t.distrikt} · ${STATUS[t.status] || t.status}</span></li>`).join("") ||
-    "<li class='liten'>Inga tävlingar inlästa än.</li>";
-  $("klubbar").innerHTML = klubbar.filter(x => !ty && ok(x)).map(k =>
-    `<li>${k.namn} <span class="liten">${k.distrikt}</span></li>`).join("");
+const idag = new Date().toISOString().slice(0, 10);
+const sv = (a, b) => a.localeCompare(b, "sv");
+let prov = [];
+const kort = n => n;
+let valda = {typ: new Set(), klubb: new Set()};
+try {
+  const s = JSON.parse(localStorage.getItem("bruks-val") || "{}");
+  valda = {typ: new Set(s.typ || []), klubb: new Set(s.klubb || [])};
+} catch (e) {}
+const url = new URLSearchParams(location.search);
+if (url.has("v")) {  // ta bort cache-parametern från adressen efter omladdning
+  url.delete("v");
+  history.replaceState(null, "", location.pathname + (url.toString() ? "?" + url : ""));
 }
-Promise.all([
-  fetch("data/klubbar.json").then(r => r.json()),
-  fetch("data/tavlingar.json").then(r => r.json()),
-]).then(([k, t]) => {
-  klubbar = k; tavlingar = t.tavlingar;
-  [...new Set(k.map(x => x.distrikt))].sort((a, b) => a.localeCompare(b, "sv"))
-    .forEach(n => $("distrikt").add(new Option(n, n)));
-  [...new Set(t.tavlingar.map(x => x.typ).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"))
-    .forEach(n => $("typ").add(new Option(n, n)));
-  $("status").textContent = `${k.length} klubbar. Tävlingar uppdaterade: ${t.uppdaterad || "aldrig"}`;
-  rita();
+if (url.has("t") || url.has("a")) {
+  valda = {typ: new Set(url.getAll("t")), klubb: new Set(url.getAll("a"))};
+}
+const spara = () => { try { localStorage.setItem("bruks-val", JSON.stringify({typ: [...valda.typ], klubb: [...valda.klubb]})); } catch (e) {} };
+
+const MAN = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"];
+function datumText(d, kort) {
+  if (kort) return +d.slice(8, 10) + " " + MAN[+d.slice(5, 7) - 1];  // "28 sep"
+  return new Date(d + "T12:00").toLocaleDateString("sv-SE", {weekday: "short", day: "numeric", month: "long", year: "numeric"});
+}
+function anmalan(t) {
+  const start = (t.anmalan_start || "").slice(0, 10), slut = (t.anmalan_slut || "").slice(0, 10);
+  if (t.status === "opened") return "Anmälan öppen till " + slut;
+  if (t.status === "late") return "Efteranmälan öppen";
+  if (t.status === "published") return start ? "Anmälan öppnar " + start : "Anmälan ej öppnad";
+  if (t.status === "closed") return "Anmälan stängd";
+  return "";
+}
+
+const RUBRIK = {typ: "Tävling", klubb: "Arrangör"};
+function ritaKnapp(falt) {
+  const n = valda[falt].size, k = $(falt).querySelector(".ddknapp");
+  k.textContent = RUBRIK[falt] + (n ? ` (${n})` : "") + " ▾";
+  k.classList.toggle("aktiv", n > 0);
+}
+
+function ritaPanel(falt) {
+  const antal = {};
+  prov.forEach(t => { antal[t[falt]] = (antal[t[falt]] || 0) + 1; });
+  const panel = $(falt).querySelector(".ddpanel");
+  const varden = Object.keys(antal).filter(Boolean).sort(sv);
+  panel.innerHTML = `<button class="rensa">Rensa val</button>` +
+    (varden.length > 15 ? `<input class="sok" type="search" placeholder="Sök ${RUBRIK[falt].toLowerCase()}">` : "") +
+    varden.map(v =>
+      `<label class="val"><input type="checkbox" data-v="${v.replace(/"/g, "&quot;")}" ${valda[falt].has(v) ? "checked" : ""}>
+       ${v}<small>${antal[v]}</small></label>`).join("");
+  const sok = panel.querySelector(".sok");
+  if (sok) sok.oninput = () => panel.querySelectorAll("label.val").forEach(l =>
+    l.hidden = !l.textContent.toLowerCase().includes(sok.value.toLowerCase()));
+  panel.querySelector(".rensa").onclick = () => { valda[falt].clear(); ritaPanel(falt); uppdatera(); };
+  panel.querySelectorAll("input").forEach(i => i.onchange = () => {
+    i.checked ? valda[falt].add(i.dataset.v) : valda[falt].delete(i.dataset.v);
+    uppdatera();
+  });
+}
+
+["typ", "klubb"].forEach(falt => {
+  $(falt).querySelector(".ddknapp").onclick = e => {
+    e.stopPropagation();
+    const oppen = $(falt).classList.contains("oppen");
+    document.querySelectorAll(".dd").forEach(d => d.classList.remove("oppen"));
+    if (!oppen) { ritaPanel(falt); $(falt).classList.add("oppen"); }
+  };
+  $(falt).querySelector(".ddpanel").onclick = e => e.stopPropagation();
 });
-$("typ").onchange = $("distrikt").onchange = $("sok").oninput = rita;
+document.addEventListener("click", () => document.querySelectorAll(".dd").forEach(d => d.classList.remove("oppen")));
+
+function ritaLista() {
+  const rader = prov.filter(t => (!valda.typ.size || valda.typ.has(t.typ)) &&
+                                 (!valda.klubb.size || valda.klubb.has(t.klubb)));
+  $("info").textContent = `${rader.length} tävlingar`;
+  $("lista").innerHTML = rader.map(t => {
+    const dat = t.slutdatum === t.datum ? datumText(t.datum)
+      : datumText(t.datum, true) + " – " + datumText(t.slutdatum, true) + " " + t.slutdatum.slice(0, 4);
+    return `<div class="kort">
+      <div class="topp"><span class="datum">${dat}</span><span class="typ">${t.typ}</span><button class="pil" aria-label="Visa mer">▼</button></div>
+      <div class="klubb">${t.klubb}</div>
+      <div class="plats">${t.distrikt}</div>
+      <div class="fot"><span class="plats">${[...new Set(t.klasser)].join(", ")}</span></div>
+      <div class="mer">${anmalan(t)}<br><a href="https://brukshundklubben.se/sbktavling/prov-tavlingar/tavling/?id=${t.id}">Anmälan i SBK Tävling →</a>${t.url ? ` · <a href="${t.url.startsWith("http") ? t.url : "https://" + t.url}">Klubbens hemsida</a>` : ""}</div>
+    </div>`;
+  }).join("") || `<p class="tom">Inga tävlingar matchar valen.</p>`;
+}
+
+function uppdatera() { spara(); ritaKnapp("typ"); ritaKnapp("klubb"); ritaLista(); }
+
+$("lista").onclick = e => { const k = e.target.closest(".kort"); if (k) k.classList.toggle("oppen"); };
+
+function toast(text) {
+  $("toast").textContent = text;
+  $("toast").classList.add("syns");
+  setTimeout(() => $("toast").classList.remove("syns"), 2000);
+}
+
+function delningslank() {
+  const q = new URLSearchParams();
+  valda.typ.forEach(v => q.append("t", v));
+  valda.klubb.forEach(v => q.append("a", v));
+  return location.origin + location.pathname + (q.toString() ? "?" + q : "");
+}
+
+$("dela").onclick = async () => {
+  const lank = delningslank();
+  const titel = "Brukshundstävlingar";
+  try {
+    if (navigator.share) { await navigator.share({title: titel, url: lank}); return; }
+    await navigator.clipboard.writeText(lank);
+    toast("Länken är kopierad");
+  } catch (e) {
+    if (e.name !== "AbortError") prompt("Kopiera länken:", lank);
+  }
+};
+
+function hamta() {
+  return fetch("data/tavlingar.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(d => {
+  prov = d.tavlingar.filter(t => t.slutdatum >= idag);
+  $("uppdaterad").textContent = `Källa: SBK Tävling. Uppdaterad ${d.uppdaterad}. Tävlingar som inte publiceras i SBK Tävling syns inte.`;
+  uppdatera();
+  return d;
+  });
+}
+// Ny version av appen? Jämför serverns Last-Modified med den sida som visas.
+// Laddar om högst en gång per session så att det aldrig kan bli en loop.
+(async () => {
+  try {
+    if (sessionStorage.getItem("bruks-versionskoll")) return;
+    sessionStorage.setItem("bruks-versionskoll", "1");
+    const r = await fetch(location.pathname, {method: "HEAD", cache: "no-store"});
+    const server = Date.parse(r.headers.get("last-modified"));
+    const visad = Date.parse(document.lastModified);
+    if (server && visad && server - visad > 2000) $("uppdatera").click();
+  } catch (e) {}
+})();
+
+hamta().then(d => {
+  let omladdad = false;
+  try { omladdad = sessionStorage.getItem("bruks-omladdad"); sessionStorage.removeItem("bruks-omladdad"); } catch (e) {}
+  if (omladdad) toast(`Uppdaterad · data från ${d.uppdaterad}`);
+});
+// Laddar om hela appen förbi cachen (viktigt när den ligger på hemskärmen)
+$("uppdatera").onclick = () => {
+  try { sessionStorage.setItem("bruks-omladdad", "1"); } catch (e) {}
+  const q = new URLSearchParams(location.search);
+  q.set("v", Date.now());
+  location.replace(location.pathname + "?" + q);
+};
 </script>
 </body>
 </html>
