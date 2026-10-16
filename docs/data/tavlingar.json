@@ -1,22 +1,6 @@
 {
- "uppdaterad": "2026-10-15",
+ "uppdaterad": "2026-10-16",
  "tavlingar": [
-  {
-   "id": "52479",
-   "datum": "2026-10-15",
-   "slutdatum": "2026-10-15",
-   "typ": "Rallylydnad",
-   "klubb": "Karlskoga Brukshundklubb",
-   "distrikt": "Värmland-Dal",
-   "status": "closed",
-   "anmalan_start": "2025-11-26 09:06",
-   "anmalan_slut": "2026-09-24 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning"
-   ],
-   "url": "http://www.karlskogabhk.se"
-  },
   {
    "id": "54801",
    "datum": "2026-10-16",
@@ -5420,6 +5404,22 @@
    "url": "http://finspongsbrukshundklubb.hundpoolen.se/"
   },
   {
+   "id": "56082",
+   "datum": "2027-01-23",
+   "slutdatum": "2027-01-23",
+   "typ": "Lydnad",
+   "klubb": "Nacka Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 05:10",
+   "anmalan_slut": "2027-01-02 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1"
+   ],
+   "url": "http://www.nackabk.nu"
+  },
+  {
    "id": "55400",
    "datum": "2027-01-23",
    "slutdatum": "2027-01-23",
@@ -5539,8 +5539,8 @@
    "klubb": "Åmåls Brukshundklubb",
    "distrikt": "Värmland-Dal",
    "status": "opened",
-   "anmalan_start": "",
-   "anmalan_slut": "",
+   "anmalan_start": "2026-10-05 13:55",
+   "anmalan_slut": "2027-01-30 23:59",
    "klasser": [
     "Lydnad Startklass",
     "Lydnadsklass 2",
@@ -5706,8 +5706,8 @@
    "klubb": "Åmåls Brukshundklubb",
    "distrikt": "Värmland-Dal",
    "status": "opened",
-   "anmalan_start": "",
-   "anmalan_slut": "",
+   "anmalan_start": "2026-10-05 13:55",
+   "anmalan_slut": "2027-02-27 23:59",
    "klasser": [
     "Lydnadsklass 2",
     "Lydnad Startklass",
@@ -6074,6 +6074,28 @@
    "url": "www.tyresobk.se"
   },
   {
+   "id": "56050",
+   "datum": "2027-04-17",
+   "slutdatum": "2027-04-17",
+   "typ": "Mondioring",
+   "klubb": "Rasklubben för Belgiska Vallhundar",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-10-15 11:48",
+   "anmalan_slut": "2027-03-27 23:59",
+   "klasser": [
+    "MR1",
+    "MR2",
+    "MRL1",
+    "MRL2",
+    "MRL3",
+    "MRLH1",
+    "MRLH2",
+    "MRLH3"
+   ],
+   "url": "www.afbv.se"
+  },
+  {
    "id": "55454",
    "datum": "2027-04-17",
    "slutdatum": "2027-04-17",
@@ -6189,6 +6211,28 @@
     "Rallylydnad fortsättning"
    ],
    "url": "www.kungsorsbhk.com"
+  },
+  {
+   "id": "56051",
+   "datum": "2027-04-18",
+   "slutdatum": "2027-04-18",
+   "typ": "Mondioring",
+   "klubb": "Rasklubben för Belgiska Vallhundar",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-10-15 11:48",
+   "anmalan_slut": "2027-03-28 23:59",
+   "klasser": [
+    "MR1",
+    "MR2",
+    "MRL1",
+    "MRL2",
+    "MRL3",
+    "MRLH1",
+    "MRLH2",
+    "MRLH3"
+   ],
+   "url": "www.afbv.se"
   },
   {
    "id": "55587",
@@ -6535,9 +6579,9 @@
    "typ": "Rallylydnad",
    "klubb": "Svenska collieklubben",
    "distrikt": "Rasklubb",
-   "status": "published",
-   "anmalan_start": "",
-   "anmalan_slut": "",
+   "status": "opened",
+   "anmalan_start": "2026-06-16 08:29",
+   "anmalan_slut": "2027-04-09 23:59",
    "klasser": [
     "Rallylydnad nybörjare",
     "Rallylydnad fortsättning",
@@ -7266,6 +7310,24 @@
    "url": "http://ljungbybrukshundklubb.se"
   },
   {
+   "id": "56083",
+   "datum": "2027-05-22",
+   "slutdatum": "2027-05-22",
+   "typ": "Lydnad",
+   "klubb": "Nacka Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 05:10",
+   "anmalan_slut": "2027-05-01 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.nackabk.nu"
+  },
+  {
    "id": "55865",
    "datum": "2027-05-22",
    "slutdatum": "2027-05-22",
@@ -7282,6 +7344,21 @@
     "Rallylydnad avancerad"
    ],
    "url": "http://www.tjornsbk.se"
+  },
+  {
+   "id": "56086",
+   "datum": "2027-05-22",
+   "slutdatum": "2027-05-22",
+   "typ": "Specialsök",
+   "klubb": "Tranås Brukshundklubb",
+   "distrikt": "Småland",
+   "status": "opened",
+   "anmalan_start": "2026-10-15 19:23",
+   "anmalan_slut": "2027-05-01 23:59",
+   "klasser": [
+    "Specialsök klass 1"
+   ],
+   "url": "http://www.tranasbk.com"
   },
   {
    "id": "55785",
@@ -7355,6 +7432,21 @@
     "Rallylydnad mästare"
    ],
    "url": "http://www.tjornsbk.se"
+  },
+  {
+   "id": "56087",
+   "datum": "2027-05-23",
+   "slutdatum": "2027-05-23",
+   "typ": "Specialsök",
+   "klubb": "Tranås Brukshundklubb",
+   "distrikt": "Småland",
+   "status": "opened",
+   "anmalan_start": "2026-10-15 19:24",
+   "anmalan_slut": "2027-05-02 23:59",
+   "klasser": [
+    "Specialsök klass 2"
+   ],
+   "url": "http://www.tranasbk.com"
   },
   {
    "id": "55967",
@@ -8835,6 +8927,21 @@
    "url": "http://www.sbkeslov.se"
   },
   {
+   "id": "56084",
+   "datum": "2027-09-12",
+   "slutdatum": "2027-09-12",
+   "typ": "Bruks",
+   "klubb": "Nacka Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 05:10",
+   "anmalan_slut": "2027-08-22 23:59",
+   "klasser": [
+    "Spår lägre klass"
+   ],
+   "url": "http://www.nackabk.nu"
+  },
+  {
    "id": "55868",
    "datum": "2027-09-12",
    "slutdatum": "2027-09-12",
@@ -9371,6 +9478,24 @@
     "Rallylydnad mästare"
    ],
    "url": "http://www.hoorbk.nu"
+  },
+  {
+   "id": "56085",
+   "datum": "2027-10-09",
+   "slutdatum": "2027-10-09",
+   "typ": "Lydnad",
+   "klubb": "Nacka Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 05:10",
+   "anmalan_slut": "2027-09-18 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.nackabk.nu"
   },
   {
    "id": "55686",
