@@ -1,38 +1,6 @@
 {
- "uppdaterad": "2026-10-16",
+ "uppdaterad": "2026-10-17",
  "tavlingar": [
-  {
-   "id": "54801",
-   "datum": "2026-10-16",
-   "slutdatum": "2026-10-16",
-   "typ": "Rallylydnad",
-   "klubb": "Gävle Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-05-02 18:45",
-   "anmalan_slut": "2026-09-25 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning"
-   ],
-   "url": "www.gavlebk.se"
-  },
-  {
-   "id": "54944",
-   "datum": "2026-10-16",
-   "slutdatum": "2026-10-16",
-   "typ": "Rallylydnad",
-   "klubb": "Umeå Brukshundklubb",
-   "distrikt": "Övre Norrland",
-   "status": "closed",
-   "anmalan_start": "2026-05-10 16:59",
-   "anmalan_slut": "2026-09-25 23:59",
-   "klasser": [
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": "http://www.ubhk.se"
-  },
   {
    "id": "53548",
    "datum": "2026-10-17",
@@ -358,6 +326,21 @@
     "Rallylydnad nybörjare"
    ],
    "url": "http://www.solvesborgsbrukshundklubb.se"
+  },
+  {
+   "id": "56116",
+   "datum": "2026-10-17",
+   "slutdatum": "2026-10-17",
+   "typ": "Exteriörbeskrivning",
+   "klubb": "Timrå Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "late",
+   "anmalan_start": "2026-10-16 14:56",
+   "anmalan_slut": "2026-09-26 23:59",
+   "klasser": [
+    "Exteriörbeskrivning"
+   ],
+   "url": "http://www.timrabhk.com"
   },
   {
    "id": "55065",
@@ -1178,6 +1161,21 @@
     "Lydnadsklass 3"
    ],
    "url": "http://www.borasbk.se"
+  },
+  {
+   "id": "56088",
+   "datum": "2026-10-24",
+   "slutdatum": "2026-10-24",
+   "typ": "Lydnad",
+   "klubb": "Falbygdens Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "closed",
+   "anmalan_start": "2026-10-16 10:49",
+   "anmalan_slut": "2026-10-03 23:59",
+   "klasser": [
+    "Lydnadsklass 1"
+   ],
+   "url": ""
   },
   {
    "id": "55572",
@@ -2177,7 +2175,7 @@
    "typ": "IGP",
    "klubb": "Järfälla Brukshundklubb",
    "distrikt": "Stockholm",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-09-30 11:29",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -2303,7 +2301,7 @@
    "typ": "Lydnad",
    "klubb": "Södertälje Brukshundklubb",
    "distrikt": "Sörmland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-10-06 06:14",
    "anmalan_slut": "2026-10-10 23:59",
    "klasser": [
@@ -4339,7 +4337,7 @@
    "typ": "Lydnad",
    "klubb": "Kungsörs Brukshundklubb",
    "distrikt": "Västmanland",
-   "status": "published",
+   "status": "opened",
    "anmalan_start": "2026-03-25 16:53",
    "anmalan_slut": "2026-11-07 23:59",
    "klasser": [
@@ -5977,6 +5975,27 @@
    "url": "www.orustbrukshundklubb.se"
   },
   {
+   "id": "56117",
+   "datum": "2027-04-10",
+   "slutdatum": "2027-04-10",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Hagatorp",
+   "distrikt": "Schäfer Närke",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 15:39",
+   "anmalan_slut": "2027-03-20 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skhagatorp.se"
+  },
+  {
    "id": "55900",
    "datum": "2027-04-10",
    "slutdatum": "2027-04-10",
@@ -6949,6 +6968,27 @@
     "BH/VT"
    ],
    "url": "http://www.krbhk.hundpoolen.se"
+  },
+  {
+   "id": "56118",
+   "datum": "2027-05-08",
+   "slutdatum": "2027-05-08",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Hagatorp",
+   "distrikt": "Schäfer Närke",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 15:39",
+   "anmalan_slut": "2027-04-17 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skhagatorp.se"
   },
   {
    "id": "55555",
@@ -9606,6 +9646,27 @@
     "Lydnadsklass 2"
    ],
    "url": "http://www.varmdobk.se"
+  },
+  {
+   "id": "56119",
+   "datum": "2027-10-23",
+   "slutdatum": "2027-10-23",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Hagatorp",
+   "distrikt": "Schäfer Närke",
+   "status": "opened",
+   "anmalan_start": "2026-10-16 15:39",
+   "anmalan_slut": "2027-10-02 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skhagatorp.se"
   },
   {
    "id": "55556",
