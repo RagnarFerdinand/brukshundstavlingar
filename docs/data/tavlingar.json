@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-10-23",
+ "uppdaterad": "2026-10-24",
  "tavlingar": [
   {
    "id": "53542",
@@ -1463,21 +1463,6 @@
    "url": "www.skasaka.se"
   },
   {
-   "id": "55409",
-   "datum": "2026-11-01",
-   "slutdatum": "2026-11-01",
-   "typ": "Exteriörbeskrivning",
-   "klubb": "Schäferhundklubben Åstorp",
-   "distrikt": "Schäfer Skåne-Blekinge",
-   "status": "closed",
-   "anmalan_start": "2026-08-26 12:45",
-   "anmalan_slut": "2026-10-11 23:59",
-   "klasser": [
-    "Exteriörbeskrivning"
-   ],
-   "url": ""
-  },
-  {
    "id": "55416",
    "datum": "2026-11-01",
    "slutdatum": "2026-11-01",
@@ -2138,7 +2123,7 @@
    "typ": "Rallylydnad",
    "klubb": "Gagnef-Floda Brukshundklubb",
    "distrikt": "Dalarna",
-   "status": "closed",
+   "status": "late",
    "anmalan_start": "2026-04-09 15:55",
    "anmalan_slut": "2026-10-21 23:59",
    "klasser": [
@@ -2154,7 +2139,7 @@
    "typ": "Rallylydnad",
    "klubb": "Gävle Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "opened",
+   "status": "published",
    "anmalan_start": "2026-05-02 18:46",
    "anmalan_slut": "2026-10-23 23:59",
    "klasser": [
@@ -2185,7 +2170,7 @@
    "typ": "Rallylydnad",
    "klubb": "Vit Herdehundklubb",
    "distrikt": "Rasklubb",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-07-02 08:14",
    "anmalan_slut": "2026-10-23 23:59",
    "klasser": [
@@ -3878,7 +3863,7 @@
    "typ": "Specialsök",
    "klubb": "Alingsås Brukshundklubb",
    "distrikt": "Västra",
-   "status": "published",
+   "status": "opened",
    "anmalan_start": "2026-10-20 15:26",
    "anmalan_slut": "2026-11-21 23:59",
    "klasser": [
@@ -5448,6 +5433,21 @@
    "url": "http://www.sjobobk.se"
   },
   {
+   "id": "56411",
+   "datum": "2027-04-11",
+   "slutdatum": "2027-04-11",
+   "typ": "Mentalbeskrivning (MH)",
+   "klubb": "Säffle Brukshundklubb",
+   "distrikt": "Värmland-Dal",
+   "status": "opened",
+   "anmalan_start": "2026-10-23 14:47",
+   "anmalan_slut": "2027-03-21 23:59",
+   "klasser": [
+    "Mentalbeskrivning (MH)"
+   ],
+   "url": "www.safflebrukshundklubb.se"
+  },
+  {
    "id": "55554",
    "datum": "2027-04-11",
    "slutdatum": "2027-04-11",
@@ -5868,6 +5868,21 @@
     "Spår appellklass"
    ],
    "url": "http://www.nynasbk.com"
+  },
+  {
+   "id": "56250",
+   "datum": "2027-04-22",
+   "slutdatum": "2027-04-22",
+   "typ": "Lydnad",
+   "klubb": "Märsta-Sigtuna Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-10-23 14:44",
+   "anmalan_slut": "2027-04-01 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "https://www.marsta-sigtunabk.com/"
   },
   {
    "id": "55750",
