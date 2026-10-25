@@ -5,6 +5,8 @@ sidan https://brukshundklubben.se/sbktavling/prov-tavlingar/ gör). Ett anrop
 returnerar alla kommande tävlingar.
 """
 import json
+import sys
+import time
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -49,13 +51,26 @@ def hamta():
         URL, data=json.dumps(kropp).encode(),
         headers={"Content-Type": "application/json", "Accept": "application/json"},
     )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)["results"]
+    # SBK:s server svarar ibland långsamt. Försök några gånger innan vi ger upp.
+    for forsok in range(1, 5):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return json.load(r)["results"]
+        except (OSError, ValueError) as e:  # timeout, nätverksfel, trasig JSON
+            print(f"Försök {forsok} misslyckades: {e}", file=sys.stderr)
+            if forsok < 4:
+                time.sleep(30 * forsok)
+    return None
 
 
 def main():
+    rader = hamta()
+    if rader is None:
+        # Behåll gårdagens data; sidan visar datum för senaste lyckade hämtning.
+        print("::warning::SBK Tävling svarade inte. Behåller befintlig data.")
+        return
     ut = []
-    for rad in hamta():
+    for rad in rader:
         v = rad["values"]
         if not v.get("competitionStartDateRaw"):
             continue
