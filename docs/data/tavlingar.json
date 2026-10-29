@@ -1,54 +1,6 @@
 {
- "uppdaterad": "2026-10-28",
+ "uppdaterad": "2026-10-29",
  "tavlingar": [
-  {
-   "id": "55523",
-   "datum": "2026-10-28",
-   "slutdatum": "2026-10-28",
-   "typ": "Rallylydnad",
-   "klubb": "Curly Coated Retriever Klubben",
-   "distrikt": "Rasklubb",
-   "status": "closed",
-   "anmalan_start": "2026-09-15 13:04",
-   "anmalan_slut": "2026-10-07 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare"
-   ],
-   "url": "curlycoated.se"
-  },
-  {
-   "id": "54670",
-   "datum": "2026-10-28",
-   "slutdatum": "2026-10-28",
-   "typ": "Rallylydnad",
-   "klubb": "Gagnef-Floda Brukshundklubb",
-   "distrikt": "Dalarna",
-   "status": "closed",
-   "anmalan_start": "2026-04-09 15:54",
-   "anmalan_slut": "2026-10-07 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning"
-   ],
-   "url": "www.g-fbk.se"
-  },
-  {
-   "id": "54851",
-   "datum": "2026-10-28",
-   "slutdatum": "2026-10-28",
-   "typ": "Bruks",
-   "klubb": "Gävle Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-04-29 17:41",
-   "anmalan_slut": "2026-10-07 23:59",
-   "klasser": [
-    "Spår appellklass"
-   ],
-   "url": "www.gavlebk.se"
-  },
   {
    "id": "55864",
    "datum": "2026-10-29",
@@ -1459,7 +1411,7 @@
    "typ": "Lydnad",
    "klubb": "Fagersta Brukshundklubb",
    "distrikt": "Västmanland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-09-23 12:07",
    "anmalan_slut": "2026-10-24 23:59",
    "klasser": [
@@ -2066,7 +2018,7 @@
    "typ": "Lydnad",
    "klubb": "Gagnef-Floda Brukshundklubb",
    "distrikt": "Dalarna",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-04-09 15:55",
    "anmalan_slut": "2026-10-28 23:59",
    "klasser": [
@@ -2082,7 +2034,7 @@
    "typ": "Lydnad",
    "klubb": "Valbo Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "opened",
+   "status": "closed",
    "anmalan_start": "2026-09-09 00:48",
    "anmalan_slut": "2026-10-28 23:59",
    "klasser": [
@@ -3310,6 +3262,21 @@
    "url": "http://www.ahusbk.se"
   },
   {
+   "id": "56589",
+   "datum": "2026-12-13",
+   "slutdatum": "2026-12-13",
+   "typ": "Specialsök",
+   "klubb": "Filipstads Brukshundklubb",
+   "distrikt": "Värmland-Dal",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 16:44",
+   "anmalan_slut": "2026-11-22 23:59",
+   "klasser": [
+    "Specialsök klass 1"
+   ],
+   "url": "www.filipstadsbrukshundklubb.se"
+  },
+  {
    "id": "53788",
    "datum": "2026-12-13",
    "slutdatum": "2026-12-13",
@@ -3621,6 +3588,22 @@
    "url": "www.sbklinkoping.com"
   },
   {
+   "id": "56592",
+   "datum": "2027-01-02",
+   "slutdatum": "2027-01-02",
+   "typ": "Rallylydnad",
+   "klubb": "Tierps Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:18",
+   "anmalan_slut": "2026-12-12 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.tierpsbk.se"
+  },
+  {
    "id": "55757",
    "datum": "2027-01-03",
    "slutdatum": "2027-01-03",
@@ -3650,6 +3633,36 @@
     "Specialsök klass 1"
    ],
    "url": "Kirunabhk.wordpress.com"
+  },
+  {
+   "id": "56563",
+   "datum": "2027-01-05",
+   "slutdatum": "2027-01-05",
+   "typ": "Lydnad",
+   "klubb": "Hallsbergs Brukshundklubb",
+   "distrikt": "Närke",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 16:38",
+   "anmalan_slut": "2026-12-15 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "hallsbergsbk.se"
+  },
+  {
+   "id": "56565",
+   "datum": "2027-01-06",
+   "slutdatum": "2027-01-06",
+   "typ": "Lydnad",
+   "klubb": "Hallsbergs Brukshundklubb",
+   "distrikt": "Närke",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 16:38",
+   "anmalan_slut": "2026-12-16 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "hallsbergsbk.se"
   },
   {
    "id": "55690",
@@ -3745,6 +3758,38 @@
     "Lydnadsklass 1"
    ],
    "url": "http://www.fagerstabk.com"
+  },
+  {
+   "id": "56573",
+   "datum": "2027-01-16",
+   "slutdatum": "2027-01-16",
+   "typ": "Rallylydnad",
+   "klubb": "Marks Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 15:17",
+   "anmalan_slut": "2026-12-26 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
+   ],
+   "url": "http://www.marksbk.se"
+  },
+  {
+   "id": "56577",
+   "datum": "2027-01-17",
+   "slutdatum": "2027-01-17",
+   "typ": "Specialsök",
+   "klubb": "Danderyd-Täby Brukshundklubb",
+   "distrikt": "Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:55",
+   "anmalan_slut": "2026-12-27 23:59",
+   "klasser": [
+    "Specialsök klass 2",
+    "Specialsök klass 3"
+   ],
+   "url": "www.dtbk.se"
   },
   {
    "id": "55069",
@@ -4762,6 +4807,21 @@
    "url": ""
   },
   {
+   "id": "56574",
+   "datum": "2027-04-04",
+   "slutdatum": "2027-04-04",
+   "typ": "Bruks",
+   "klubb": "Skövde Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 12:47",
+   "anmalan_slut": "2027-03-14 23:59",
+   "klasser": [
+    "Spår elitklass"
+   ],
+   "url": "http://www.skovdebk.se"
+  },
+  {
    "id": "56153",
    "datum": "2027-04-06",
    "slutdatum": "2027-04-06",
@@ -5368,6 +5428,21 @@
    "url": "http:///www.flensbrukshundklubb.se"
   },
   {
+   "id": "56560",
+   "datum": "2027-04-17",
+   "slutdatum": "2027-04-17",
+   "typ": "Bruks",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-03-27 23:59",
+   "klasser": [
+    "Spår lägre klass"
+   ],
+   "url": "http://www.gotenebk.com"
+  },
+  {
    "id": "56318",
    "datum": "2027-04-17",
    "slutdatum": "2027-04-17",
@@ -5708,6 +5783,22 @@
    "url": "www.afbv.se"
   },
   {
+   "id": "56466",
+   "datum": "2027-04-18",
+   "slutdatum": "2027-04-18",
+   "typ": "Bruks",
+   "klubb": "Sala Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:40",
+   "anmalan_slut": "2027-03-28 23:59",
+   "klasser": [
+    "Sök lägre klass",
+    "Sök högre klass"
+   ],
+   "url": "http://www.salabrukshundklubb.hundpoolen.nu"
+  },
+  {
    "id": "56456",
    "datum": "2027-04-18",
    "slutdatum": "2027-04-18",
@@ -5953,6 +6044,24 @@
     "Spår högre klass"
    ],
    "url": "https://www.gnesta-trosa-bk.se/"
+  },
+  {
+   "id": "56562",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "Lydnad",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:08",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnad Startklass",
+    "Lydnadsklass 1"
+   ],
+   "url": "http://www.gotenebk.com"
   },
   {
    "id": "55601",
@@ -6420,10 +6529,11 @@
    "klubb": "Tierps Brukshundklubb",
    "distrikt": "Uppland",
    "status": "opened",
-   "anmalan_start": "2026-10-20 12:23",
-   "anmalan_slut": "2027-04-04 23:59",
+   "anmalan_start": "",
+   "anmalan_slut": "",
    "klasser": [
-    "Sök lägre klass"
+    "Sök lägre klass",
+    "Sök högre klass"
    ],
    "url": "www.tierpsbk.se"
   },
@@ -6533,6 +6643,21 @@
    "distrikt": "Uppland",
    "status": "opened",
    "anmalan_start": "2026-10-20 07:59",
+   "anmalan_slut": "2027-04-04 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "https://osthammarsbk.wordpress.com/"
+  },
+  {
+   "id": "56482",
+   "datum": "2027-04-25",
+   "slutdatum": "2027-04-25",
+   "typ": "Lydnad",
+   "klubb": "Östhammar Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 13:31",
    "anmalan_slut": "2027-04-04 23:59",
    "klasser": [
     "Lydnad Startklass"
@@ -6679,6 +6804,21 @@
     "Skydd högre klass"
    ],
    "url": ""
+  },
+  {
+   "id": "56564",
+   "datum": "2027-05-01",
+   "slutdatum": "2027-05-01",
+   "typ": "Bruks",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-04-10 23:59",
+   "klasser": [
+    "Spår högre klass"
+   ],
+   "url": "http://www.gotenebk.com"
   },
   {
    "id": "55206",
@@ -6968,6 +7108,21 @@
    "url": "http://www.roslagensbk.se"
   },
   {
+   "id": "56575",
+   "datum": "2027-05-02",
+   "slutdatum": "2027-05-02",
+   "typ": "Bruks",
+   "klubb": "Skövde Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 12:47",
+   "anmalan_slut": "2027-04-11 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.skovdebk.se"
+  },
+  {
    "id": "55762",
    "datum": "2027-05-02",
    "slutdatum": "2027-05-02",
@@ -7100,6 +7255,21 @@
     "Rallylydnad fortsättning"
    ],
    "url": "orkelljunga-bk.se"
+  },
+  {
+   "id": "56450",
+   "datum": "2027-05-03",
+   "slutdatum": "2027-05-03",
+   "typ": "Lydnad",
+   "klubb": "Skultuna Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:40",
+   "anmalan_slut": "2027-04-12 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "www.skultunabrukshundklubb.se"
   },
   {
    "id": "56154",
@@ -8240,6 +8410,21 @@
    "url": "http://www.torebodabhk.com"
   },
   {
+   "id": "56451",
+   "datum": "2027-05-17",
+   "slutdatum": "2027-05-17",
+   "typ": "Lydnad",
+   "klubb": "Skultuna Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-04-26 23:59",
+   "klasser": [
+    "Lydnadsklass 1"
+   ],
+   "url": "www.skultunabrukshundklubb.se"
+  },
+  {
    "id": "56399",
    "datum": "2027-05-18",
    "slutdatum": "2027-05-18",
@@ -8269,6 +8454,21 @@
     "Rallylydnad avancerad"
    ],
    "url": "www.alingsasbhk.se"
+  },
+  {
+   "id": "56470",
+   "datum": "2027-05-20",
+   "slutdatum": "2027-05-20",
+   "typ": "Bruks",
+   "klubb": "Sala Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-04-29 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.salabrukshundklubb.hundpoolen.nu"
   },
   {
    "id": "55928",
@@ -8568,6 +8768,21 @@
    "url": "http://www.botkyrkabk.se"
   },
   {
+   "id": "55716",
+   "datum": "2027-05-23",
+   "slutdatum": "2027-05-23",
+   "typ": "Bruks",
+   "klubb": "Edsbyns Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 18:35",
+   "anmalan_slut": "2027-05-02 23:59",
+   "klasser": [
+    "Spår lägre klass"
+   ],
+   "url": "https://www.edsbynsbk.se/"
+  },
+  {
    "id": "56274",
    "datum": "2027-05-23",
    "slutdatum": "2027-05-23",
@@ -8676,6 +8891,24 @@
     "Spår elitklass"
    ],
    "url": "http://svenskabrukshundklubben/nässjö bk"
+  },
+  {
+   "id": "56507",
+   "datum": "2027-05-23",
+   "slutdatum": "2027-05-23",
+   "typ": "Lydnad",
+   "klubb": "Piteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-02 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.piteabk.net/"
   },
   {
    "id": "55785",
@@ -8912,6 +9145,24 @@
    "url": "http://www.fagerstabk.com"
   },
   {
+   "id": "56570",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "Rallylydnad",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "http://www.gotenebk.com"
+  },
+  {
    "id": "55539",
    "datum": "2027-05-29",
    "slutdatum": "2027-05-29",
@@ -8978,6 +9229,24 @@
    "url": "http://www.sbkolofstrom.se"
   },
   {
+   "id": "56587",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "Lydnad",
+   "klubb": "Skellefteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://skeabk.se/"
+  },
+  {
    "id": "55899",
    "datum": "2027-05-29",
    "slutdatum": "2027-05-29",
@@ -9025,6 +9294,24 @@
    "url": "http://www.vasterasbk.se"
   },
   {
+   "id": "56571",
+   "datum": "2027-05-30",
+   "slutdatum": "2027-05-30",
+   "typ": "Rallylydnad",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-05-09 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.gotenebk.com"
+  },
+  {
    "id": "55080",
    "datum": "2027-05-30",
    "slutdatum": "2027-05-30",
@@ -9040,6 +9327,24 @@
     "Sök elitklass"
    ],
    "url": "http://www.njudungsbk.com/"
+  },
+  {
+   "id": "56588",
+   "datum": "2027-05-30",
+   "slutdatum": "2027-05-30",
+   "typ": "Lydnad",
+   "klubb": "Skellefteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-09 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://skeabk.se/"
   },
   {
    "id": "55109",
@@ -9171,6 +9476,24 @@
     "Rallylydnad mästare"
    ],
    "url": "http://www.motalabrukshundklubb.se"
+  },
+  {
+   "id": "56578",
+   "datum": "2027-06-04",
+   "slutdatum": "2027-06-04",
+   "typ": "Lydnad",
+   "klubb": "Bodens Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-14 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.bodensbrukshundklubb.se/"
   },
   {
    "id": "55551",
@@ -9605,6 +9928,21 @@
    "url": "http://kbruks.dinstudio.se/"
   },
   {
+   "id": "56452",
+   "datum": "2027-06-07",
+   "slutdatum": "2027-06-07",
+   "typ": "Lydnad",
+   "klubb": "Skultuna Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-05-17 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "www.skultunabrukshundklubb.se"
+  },
+  {
    "id": "56283",
    "datum": "2027-06-08",
    "slutdatum": "2027-06-08",
@@ -9701,6 +10039,24 @@
     "Mentalbeskrivning (MH)"
    ],
    "url": "http://lerumsbk.se/"
+  },
+  {
+   "id": "56337",
+   "datum": "2027-06-12",
+   "slutdatum": "2027-06-12",
+   "typ": "Lydnad",
+   "klubb": "Norsjö Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-22 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.norsjobk.se/"
   },
   {
    "id": "55155",
@@ -9880,6 +10236,21 @@
     "Spår elitklass"
    ],
    "url": "https://www.marsta-sigtunabk.com/"
+  },
+  {
+   "id": "56275",
+   "datum": "2027-06-13",
+   "slutdatum": "2027-06-13",
+   "typ": "Bruks",
+   "klubb": "Älvsby Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-23 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "www.alvsbybhk.se"
   },
   {
    "id": "55136",
@@ -10065,6 +10436,23 @@
    "url": "www.lebhk.se"
   },
   {
+   "id": "56346",
+   "datum": "2027-06-19",
+   "slutdatum": "2027-06-19",
+   "typ": "Lydnad",
+   "klubb": "Nordmalings Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-29 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2"
+   ],
+   "url": "http://www.nordmalingsbrukshundklubb.se"
+  },
+  {
    "id": "56105",
    "datum": "2027-06-19",
    "slutdatum": "2027-06-19",
@@ -10094,6 +10482,37 @@
     "Spår elitklass"
    ],
    "url": "http://www.nynasbk.com"
+  },
+  {
+   "id": "56509",
+   "datum": "2027-06-19",
+   "slutdatum": "2027-06-19",
+   "typ": "Lydnad",
+   "klubb": "Piteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:20",
+   "anmalan_slut": "2027-05-29 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.piteabk.net/"
+  },
+  {
+   "id": "56510",
+   "datum": "2027-06-19",
+   "slutdatum": "2027-06-20",
+   "typ": "Bruks",
+   "klubb": "Piteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-29 23:59",
+   "klasser": [
+    "Skydd elitklass"
+   ],
+   "url": "http://www.piteabk.net/"
   },
   {
    "id": "55787",
@@ -10201,6 +10620,41 @@
     "Skydd elitklass"
    ],
    "url": "https://www.gnesta-trosa-bk.se/"
+  },
+  {
+   "id": "56047",
+   "datum": "2027-06-20",
+   "slutdatum": "2027-06-20",
+   "typ": "Lydnad",
+   "klubb": "Malå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-30 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "www.mbk.imala.se"
+  },
+  {
+   "id": "56511",
+   "datum": "2027-06-20",
+   "slutdatum": "2027-06-20",
+   "typ": "Bruks",
+   "klubb": "Piteå Brukshundklubb",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 08:21",
+   "anmalan_slut": "2027-05-30 23:59",
+   "klasser": [
+    "Sök lägre klass",
+    "Sök högre klass",
+    "Sök elitklass"
+   ],
+   "url": "http://www.piteabk.net/"
   },
   {
    "id": "55788",
@@ -10435,6 +10889,57 @@
    "url": "http://hoganas-bk.se"
   },
   {
+   "id": "56467",
+   "datum": "2027-07-07",
+   "slutdatum": "2027-07-07",
+   "typ": "Lydnad",
+   "klubb": "Sala Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-06-16 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.salabrukshundklubb.hundpoolen.nu"
+  },
+  {
+   "id": "56516",
+   "datum": "2027-07-10",
+   "slutdatum": "2027-07-10",
+   "typ": "Rallylydnad",
+   "klubb": "Kungsbacka Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 15:18",
+   "anmalan_slut": "2027-06-19 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "www.kbhk.se/"
+  },
+  {
+   "id": "56517",
+   "datum": "2027-07-11",
+   "slutdatum": "2027-07-11",
+   "typ": "Rallylydnad",
+   "klubb": "Kungsbacka Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 15:17",
+   "anmalan_slut": "2027-06-20 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.kbhk.se/"
+  },
+  {
    "id": "54987",
    "datum": "2027-07-11",
    "slutdatum": "2027-07-11",
@@ -10465,6 +10970,21 @@
     "Rallylydnad nybörjare"
    ],
    "url": "http://www.tranasbk.com"
+  },
+  {
+   "id": "56468",
+   "datum": "2027-07-13",
+   "slutdatum": "2027-07-13",
+   "typ": "Lydnad",
+   "klubb": "Sala Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-06-22 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.salabrukshundklubb.hundpoolen.nu"
   },
   {
    "id": "56227",
@@ -10612,6 +11132,24 @@
     "Spår högre klass"
    ],
    "url": "http:///www.flensbrukshundklubb.se"
+  },
+  {
+   "id": "56568",
+   "datum": "2027-07-25",
+   "slutdatum": "2027-07-25",
+   "typ": "Lydnad",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-07-04 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.gotenebk.com"
   },
   {
    "id": "55786",
@@ -11035,6 +11573,21 @@
    "url": "http://www.ahusbk.se"
   },
   {
+   "id": "56079",
+   "datum": "2027-08-15",
+   "slutdatum": "2027-08-15",
+   "typ": "Bruks",
+   "klubb": "Bollnäs Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 18:35",
+   "anmalan_slut": "2027-07-25 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.bollnasbrukshundklubb.com"
+  },
+  {
    "id": "55778",
    "datum": "2027-08-15",
    "slutdatum": "2027-08-15",
@@ -11254,6 +11807,24 @@
     "Lydnadsklass 1"
    ],
    "url": "http://www.vallingbybk.se/"
+  },
+  {
+   "id": "56078",
+   "datum": "2027-08-21",
+   "slutdatum": "2027-08-21",
+   "typ": "Lydnad",
+   "klubb": "Bollnäs Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 18:35",
+   "anmalan_slut": "2027-07-31 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": "http://www.bollnasbrukshundklubb.com"
   },
   {
    "id": "56189",
@@ -11547,6 +12118,21 @@
     "Spår lägre klass"
    ],
    "url": "www.enkopingsbk.se"
+  },
+  {
+   "id": "56471",
+   "datum": "2027-08-26",
+   "slutdatum": "2027-08-26",
+   "typ": "Bruks",
+   "klubb": "Sala Brukshundklubb",
+   "distrikt": "Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-10-29 07:39",
+   "anmalan_slut": "2027-08-05 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.salabrukshundklubb.hundpoolen.nu"
   },
   {
    "id": "56449",
@@ -11855,6 +12441,23 @@
     "Skydd elitklass"
    ],
    "url": "http://www.a-lbk.se"
+  },
+  {
+   "id": "56483",
+   "datum": "2027-08-29",
+   "slutdatum": "2027-08-29",
+   "typ": "Lydnad",
+   "klubb": "Östhammar Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 13:32",
+   "anmalan_slut": "2027-08-08 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2"
+   ],
+   "url": "https://osthammarsbk.wordpress.com/"
   },
   {
    "id": "56150",
@@ -12992,6 +13595,22 @@
     "Sök appellklass"
    ],
    "url": "www.sbkattila.se"
+  },
+  {
+   "id": "56576",
+   "datum": "2027-09-18",
+   "slutdatum": "2027-09-18",
+   "typ": "Lydnad",
+   "klubb": "Skövde Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 12:47",
+   "anmalan_slut": "2027-08-28 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.skovdebk.se"
   },
   {
    "id": "55455",
@@ -14618,6 +15237,21 @@
     "IGP-3"
    ],
    "url": "http://www.vasterasbk.se"
+  },
+  {
+   "id": "56569",
+   "datum": "2027-10-31",
+   "slutdatum": "2027-10-31",
+   "typ": "Bruks",
+   "klubb": "Götene Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-10-28 11:07",
+   "anmalan_slut": "2027-10-10 23:59",
+   "klasser": [
+    "Spår appellklass"
+   ],
+   "url": "http://www.gotenebk.com"
   },
   {
    "id": "56432",
