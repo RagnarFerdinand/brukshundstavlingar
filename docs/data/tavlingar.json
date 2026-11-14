@@ -1,54 +1,6 @@
 {
- "uppdaterad": "2026-11-13",
+ "uppdaterad": "2026-11-14",
  "tavlingar": [
-  {
-   "id": "54802",
-   "datum": "2026-11-13",
-   "slutdatum": "2026-11-13",
-   "typ": "Rallylydnad",
-   "klubb": "Gävle Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-05-02 18:46",
-   "anmalan_slut": "2026-10-23 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare"
-   ],
-   "url": "www.gavlebk.se"
-  },
-  {
-   "id": "55721",
-   "datum": "2026-11-13",
-   "slutdatum": "2026-11-13",
-   "typ": "Specialsök",
-   "klubb": "Hofors Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-09-30 10:47",
-   "anmalan_slut": "2026-10-23 23:59",
-   "klasser": [
-    "Specialsök klass 1"
-   ],
-   "url": "http://www.hoforsbrukshundklubb.se"
-  },
-  {
-   "id": "55215",
-   "datum": "2026-11-13",
-   "slutdatum": "2026-11-13",
-   "typ": "Rallylydnad",
-   "klubb": "Vit Herdehundklubb",
-   "distrikt": "Rasklubb",
-   "status": "closed",
-   "anmalan_start": "2026-07-02 08:14",
-   "anmalan_slut": "2026-10-23 23:59",
-   "klasser": [
-    "Rallylydnad mästare",
-    "Rallylydnad mästare",
-    "Rallylydnad avancerad"
-   ],
-   "url": "http://www.vitherdehund.com"
-  },
   {
    "id": "55590",
    "datum": "2026-11-14",
@@ -212,21 +164,6 @@
    "url": "www.luleahundvanner.nu"
   },
   {
-   "id": "55411",
-   "datum": "2026-11-14",
-   "slutdatum": "2026-11-14",
-   "typ": "IGP",
-   "klubb": "Nynäshamns Brukshundklubb",
-   "distrikt": "Sörmland",
-   "status": "closed",
-   "anmalan_start": "2026-09-08 05:41",
-   "anmalan_slut": "2026-10-24 23:59",
-   "klasser": [
-    "BH/VT"
-   ],
-   "url": "http://www.nynasbk.com"
-  },
-  {
    "id": "56277",
    "datum": "2026-11-14",
    "slutdatum": "2026-11-14",
@@ -238,6 +175,21 @@
    "anmalan_slut": "2026-10-24 23:59",
    "klasser": [
     "IFH 3 "
+   ],
+   "url": "http://www.nynasbk.com"
+  },
+  {
+   "id": "55411",
+   "datum": "2026-11-14",
+   "slutdatum": "2026-11-14",
+   "typ": "IGP",
+   "klubb": "Nynäshamns Brukshundklubb",
+   "distrikt": "Sörmland",
+   "status": "closed",
+   "anmalan_start": "2026-09-08 05:41",
+   "anmalan_slut": "2026-10-24 23:59",
+   "klasser": [
+    "BH/VT"
    ],
    "url": "http://www.nynasbk.com"
   },
@@ -387,22 +339,6 @@
    "url": "http://www.vitherdehund.com"
   },
   {
-   "id": "54425",
-   "datum": "2026-11-14",
-   "slutdatum": "2026-11-14",
-   "typ": "Rallylydnad",
-   "klubb": "Värnamo Brukshundklubb",
-   "distrikt": "Småland",
-   "status": "closed",
-   "anmalan_start": "2026-04-11 19:46",
-   "anmalan_slut": "2026-10-24 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare"
-   ],
-   "url": "www.varnamobrukshundklubb.com"
-  },
-  {
    "id": "54426",
    "datum": "2026-11-14",
    "slutdatum": "2026-11-14",
@@ -415,6 +351,22 @@
    "klasser": [
     "Rallylydnad avancerad",
     "Rallylydnad avancerad"
+   ],
+   "url": "www.varnamobrukshundklubb.com"
+  },
+  {
+   "id": "54425",
+   "datum": "2026-11-14",
+   "slutdatum": "2026-11-14",
+   "typ": "Rallylydnad",
+   "klubb": "Värnamo Brukshundklubb",
+   "distrikt": "Småland",
+   "status": "closed",
+   "anmalan_start": "2026-04-11 19:46",
+   "anmalan_slut": "2026-10-24 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
    ],
    "url": "www.varnamobrukshundklubb.com"
   },
@@ -1325,7 +1277,7 @@
    "typ": "Rallylydnad",
    "klubb": "Skellefteå Brukshundklubb",
    "distrikt": "Övre Norrland",
-   "status": "closed",
+   "status": "late",
    "anmalan_start": "2026-05-01 17:35",
    "anmalan_slut": "2026-11-07 23:59",
    "klasser": [
@@ -1379,7 +1331,7 @@
    "typ": "Lydnad",
    "klubb": "Varbergs Brukshundklubb",
    "distrikt": "Halland",
-   "status": "closed",
+   "status": "late",
    "anmalan_start": "2025-10-27 04:56",
    "anmalan_slut": "2026-11-07 23:59",
    "klasser": [
@@ -2848,6 +2800,21 @@
    "url": "http://www.nackabk.nu"
   },
   {
+   "id": "56952",
+   "datum": "2027-01-23",
+   "slutdatum": "2027-01-23",
+   "typ": "Specialsök",
+   "klubb": "Ragunda Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-13 19:30",
+   "anmalan_slut": "2027-01-02 23:59",
+   "klasser": [
+    "Specialsök klass 1"
+   ],
+   "url": "www.ragundabhk.com"
+  },
+  {
    "id": "55874",
    "datum": "2027-01-23",
    "slutdatum": "2027-01-23",
@@ -3123,6 +3090,21 @@
    "url": "www.gavlebk.se"
   },
   {
+   "id": "56953",
+   "datum": "2027-02-07",
+   "slutdatum": "2027-02-07",
+   "typ": "Specialsök",
+   "klubb": "Ragunda Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-14 09:16",
+   "anmalan_slut": "2027-01-17 23:59",
+   "klasser": [
+    "Specialsök klass 2"
+   ],
+   "url": "www.ragundabhk.com"
+  },
+  {
    "id": "56130",
    "datum": "2027-02-07",
    "slutdatum": "2027-02-07",
@@ -3320,6 +3302,22 @@
     "Rallylydnad mästare"
    ],
    "url": "www.kungsorsbhk.com"
+  },
+  {
+   "id": "56900",
+   "datum": "2027-02-14",
+   "slutdatum": "2027-02-14",
+   "typ": "Rallylydnad",
+   "klubb": "Kungälvs Brukshundklubb",
+   "distrikt": "Västra",
+   "status": "opened",
+   "anmalan_start": "2026-11-13 19:15",
+   "anmalan_slut": "2027-01-24 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
+   ],
+   "url": "http://www.kungalvbk.com/"
   },
   {
    "id": "56585",
@@ -6432,11 +6430,12 @@
    "klubb": "SBKs Halmstadsavd.",
    "distrikt": "Halland",
    "status": "opened",
-   "anmalan_start": "2026-11-02 05:12",
-   "anmalan_slut": "2027-03-27 23:59",
+   "anmalan_start": "",
+   "anmalan_slut": "",
    "klasser": [
     "IGP-1",
-    "IGP-2"
+    "IGP-2",
+    "IGP-3"
    ],
    "url": "sbkhalmstad.se"
   },
@@ -7118,7 +7117,6 @@
    "anmalan_start": "2026-11-13 11:08",
    "anmalan_slut": "2027-03-28 23:59",
    "klasser": [
-    "Sök lägre klass",
     "Sök lägre klass",
     "Sök högre klass"
    ],
