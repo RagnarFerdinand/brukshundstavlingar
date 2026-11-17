@@ -1,22 +1,6 @@
 {
- "uppdaterad": "2026-11-16",
+ "uppdaterad": "2026-11-17",
  "tavlingar": [
-  {
-   "id": "56852",
-   "datum": "2026-11-16",
-   "slutdatum": "2026-11-16",
-   "typ": "Rallylydnad",
-   "klubb": "Valbo Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-11-05 19:30",
-   "anmalan_slut": "2026-10-26 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad nybörjare"
-   ],
-   "url": "http://www.valbobk.se"
-  },
   {
    "id": "54664",
    "datum": "2026-11-18",
@@ -937,7 +921,7 @@
    "typ": "Specialsök",
    "klubb": "Fagersta Brukshundklubb",
    "distrikt": "Västmanland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-11-10 13:44",
    "anmalan_slut": "2026-11-09 23:59",
    "klasser": [
@@ -1892,6 +1876,24 @@
    "url": "hallsbergsbk.se"
   },
   {
+   "id": "56898",
+   "datum": "2027-01-05",
+   "slutdatum": "2027-01-05",
+   "typ": "Rallylydnad",
+   "klubb": "Vit Herdehundklubb",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2026-12-15 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "http://www.vitherdehund.com"
+  },
+  {
    "id": "56565",
    "datum": "2027-01-06",
    "slutdatum": "2027-01-06",
@@ -1954,6 +1956,24 @@
     "Specialsök klass 2"
    ],
    "url": "http://www.sollefteabhk.se"
+  },
+  {
+   "id": "56899",
+   "datum": "2027-01-06",
+   "slutdatum": "2027-01-06",
+   "typ": "Rallylydnad",
+   "klubb": "Vit Herdehundklubb",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:27",
+   "anmalan_slut": "2026-12-16 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "http://www.vitherdehund.com"
   },
   {
    "id": "55559",
@@ -3423,6 +3443,23 @@
    "url": "http://ullaredsbk.se"
   },
   {
+   "id": "56932",
+   "datum": "2027-03-14",
+   "slutdatum": "2027-03-14",
+   "typ": "Rallylydnad",
+   "klubb": "Härnösand Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:45",
+   "anmalan_slut": "2027-02-21 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.harnosandsbk.se"
+  },
+  {
    "id": "56340",
    "datum": "2027-03-14",
    "slutdatum": "2027-03-14",
@@ -3942,6 +3979,21 @@
    "url": "www.surabk.com"
   },
   {
+   "id": "56429",
+   "datum": "2027-03-21",
+   "slutdatum": "2027-03-21",
+   "typ": "IGP",
+   "klubb": "Svenska Rottweilerklubben Uppland",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2027-02-28 23:59",
+   "klasser": [
+    "BH/VT"
+   ],
+   "url": "http://upplandslorottweilerklubben.se/"
+  },
+  {
    "id": "55791",
    "datum": "2027-03-21",
    "slutdatum": "2027-03-21",
@@ -4378,6 +4430,43 @@
     "Sök appellklass"
    ],
    "url": "www.nykopingsbk.se"
+  },
+  {
+   "id": "56746",
+   "datum": "2027-04-03",
+   "slutdatum": "2027-04-03",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Habo",
+   "distrikt": "Schäfer Småland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:15",
+   "anmalan_slut": "2027-03-13 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "http://www.skhabo.se"
+  },
+  {
+   "id": "56524",
+   "datum": "2027-04-03",
+   "slutdatum": "2027-04-03",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Vårgårda",
+   "distrikt": "Schäfer Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:25",
+   "anmalan_slut": "2027-03-13 23:59",
+   "klasser": [
+    "IFH 2 ",
+    "IFH 3 "
+   ],
+   "url": ""
   },
   {
    "id": "55929",
@@ -5402,6 +5491,26 @@
     "Mentalbeskrivning (MH)"
    ],
    "url": "www.sdgotland.se"
+  },
+  {
+   "id": "56613",
+   "datum": "2027-04-11",
+   "slutdatum": "2027-04-11",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Enköping",
+   "distrikt": "Schäfer Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:11",
+   "anmalan_slut": "2027-03-21 23:59",
+   "klasser": [
+    "IGP-1",
+    "IGP-2",
+    "IGP-3",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3"
+   ],
+   "url": "www.skenkoping.se"
   },
   {
    "id": "55855",
@@ -7026,6 +7135,60 @@
    "url": "http://www.roslagensbk.se"
   },
   {
+   "id": "56662",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "IGP",
+   "klubb": "Schäferdistrikt Gotland",
+   "distrikt": "Schäfer Gotland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:09",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "BH/VT",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.sdgotland.se"
+  },
+  {
+   "id": "56440",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Jönköping",
+   "distrikt": "Schäfer Småland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:16",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
+  },
+  {
+   "id": "56738",
+   "datum": "2027-04-24",
+   "slutdatum": "2027-04-24",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Lövsättra",
+   "distrikt": "Schäfer Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:17",
+   "anmalan_slut": "2027-04-03 23:59",
+   "klasser": [
+    "BH/VT"
+   ],
+   "url": "www.schaferhundklubblovsattra.se/"
+  },
+  {
    "id": "56375",
    "datum": "2027-04-24",
    "slutdatum": "2027-04-24",
@@ -7510,6 +7673,46 @@
     "Spår högre klass"
    ],
    "url": "http://svenskabrukshundklubben/nässjö bk"
+  },
+  {
+   "id": "56663",
+   "datum": "2027-04-25",
+   "slutdatum": "2027-04-25",
+   "typ": "IGP",
+   "klubb": "Schäferdistrikt Gotland",
+   "distrikt": "Schäfer Gotland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:09",
+   "anmalan_slut": "2027-04-04 23:59",
+   "klasser": [
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.sdgotland.se"
+  },
+  {
+   "id": "56611",
+   "datum": "2027-04-25",
+   "slutdatum": "2027-04-25",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Forshaga",
+   "distrikt": "Schäfer Värmland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:14",
+   "anmalan_slut": "2027-04-04 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IFH 1 ",
+    "IFH 2 ",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
   },
   {
    "id": "56441",
@@ -8211,6 +8414,22 @@
    "klasser": [
     "Lydnad Startklass",
     "Lydnadsklass 1"
+   ],
+   "url": "www.svenskacollieklubben.se"
+  },
+  {
+   "id": "56769",
+   "datum": "2027-05-01",
+   "slutdatum": "2027-05-01",
+   "typ": "Bruks",
+   "klubb": "Svenska collieklubben",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:08",
+   "anmalan_slut": "2027-04-10 23:59",
+   "klasser": [
+    "Spår appellklass",
+    "Sök appellklass"
    ],
    "url": "www.svenskacollieklubben.se"
   },
@@ -10496,6 +10715,22 @@
    "url": ""
   },
   {
+   "id": "56957",
+   "datum": "2027-05-15",
+   "slutdatum": "2027-05-15",
+   "typ": "Rallylydnad",
+   "klubb": "Skutskärs Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:52",
+   "anmalan_slut": "2027-04-24 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
+   ],
+   "url": "www.skutskarsbrukshund.com"
+  },
+  {
    "id": "55159",
    "datum": "2027-05-15",
    "slutdatum": "2027-05-15",
@@ -11420,6 +11655,26 @@
    "url": "http://www.sandvikensbk.hundpoolen.se"
   },
   {
+   "id": "56740",
+   "datum": "2027-05-22",
+   "slutdatum": "2027-05-22",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Lövsättra",
+   "distrikt": "Schäfer Stockholm",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:17",
+   "anmalan_slut": "2027-05-01 23:59",
+   "klasser": [
+    "IGP-1",
+    "IGP-2",
+    "IGP-3",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3"
+   ],
+   "url": "www.schaferhundklubblovsattra.se/"
+  },
+  {
    "id": "56376",
    "datum": "2027-05-22",
    "slutdatum": "2027-05-22",
@@ -12220,6 +12475,23 @@
    "url": "http://www.ludvikabk.se"
   },
   {
+   "id": "56645",
+   "datum": "2027-05-26",
+   "slutdatum": "2027-05-26",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Umeå",
+   "distrikt": "Schäfer Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:25",
+   "anmalan_slut": "2027-05-05 23:59",
+   "klasser": [
+    "BH/VT",
+    "IFH 1 ",
+    "IFH 2 "
+   ],
+   "url": "www.skumea.se"
+  },
+  {
    "id": "56464",
    "datum": "2027-05-26",
    "slutdatum": "2027-05-26",
@@ -12314,6 +12586,36 @@
     "Rallylydnad avancerad"
    ],
    "url": "http://www.gotenebk.com"
+  },
+  {
+   "id": "56935",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "Rallylydnad",
+   "klubb": "Härnösand Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:45",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "Rallylydnad avancerad"
+   ],
+   "url": "http://www.harnosandsbk.se"
+  },
+  {
+   "id": "56937",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "Rallylydnad",
+   "klubb": "Härnösand Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:45",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.harnosandsbk.se"
   },
   {
    "id": "55869",
@@ -12494,6 +12796,26 @@
     "Spår elitklass"
    ],
    "url": "http://www.sbkolofstrom.se"
+  },
+  {
+   "id": "56590",
+   "datum": "2027-05-29",
+   "slutdatum": "2027-05-29",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Vårgårda",
+   "distrikt": "Schäfer Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2027-05-08 23:59",
+   "klasser": [
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
   },
   {
    "id": "56587",
@@ -12695,6 +13017,21 @@
     "Spår elitklass"
    ],
    "url": "http://herrljungabhk.se/"
+  },
+  {
+   "id": "56941",
+   "datum": "2027-05-30",
+   "slutdatum": "2027-05-30",
+   "typ": "Rallylydnad",
+   "klubb": "Härnösand Brukshundklubb",
+   "distrikt": "Mellannorrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:45",
+   "anmalan_slut": "2027-05-09 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning"
+   ],
+   "url": "http://www.harnosandsbk.se"
   },
   {
    "id": "55870",
@@ -13451,6 +13788,44 @@
    "url": "http://www.sandvikensbk.hundpoolen.se"
   },
   {
+   "id": "56665",
+   "datum": "2027-06-05",
+   "slutdatum": "2027-06-05",
+   "typ": "Lydnad",
+   "klubb": "Schäferdistrikt Gotland",
+   "distrikt": "Schäfer Gotland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:09",
+   "anmalan_slut": "2027-05-15 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2"
+   ],
+   "url": "www.sdgotland.se"
+  },
+  {
+   "id": "56747",
+   "datum": "2027-06-05",
+   "slutdatum": "2027-06-05",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Habo",
+   "distrikt": "Schäfer Småland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:15",
+   "anmalan_slut": "2027-05-15 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "http://www.skhabo.se"
+  },
+  {
    "id": "56457",
    "datum": "2027-06-05",
    "slutdatum": "2027-06-05",
@@ -14140,6 +14515,27 @@
     "Lydnad Startklass"
    ],
    "url": "http://www.kristianstadsbk.se/"
+  },
+  {
+   "id": "56646",
+   "datum": "2027-06-09",
+   "slutdatum": "2027-06-09",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Umeå",
+   "distrikt": "Schäfer Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:25",
+   "anmalan_slut": "2027-05-19 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skumea.se"
   },
   {
    "id": "55747",
@@ -15247,6 +15643,21 @@
    "url": "www.rhh.se"
   },
   {
+   "id": "56614",
+   "datum": "2027-06-19",
+   "slutdatum": "2027-06-19",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Enköping",
+   "distrikt": "Schäfer Västmanland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:11",
+   "anmalan_slut": "2027-05-29 23:59",
+   "klasser": [
+    "BH/VT"
+   ],
+   "url": "www.skenkoping.se"
+  },
+  {
    "id": "56776",
    "datum": "2027-06-19",
    "slutdatum": "2027-06-19",
@@ -15451,6 +15862,26 @@
     "MRLH3"
    ],
    "url": "www.rhh.se"
+  },
+  {
+   "id": "56591",
+   "datum": "2027-06-20",
+   "slutdatum": "2027-06-20",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Vårgårda",
+   "distrikt": "Schäfer Skaraborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2027-05-30 23:59",
+   "klasser": [
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
   },
   {
    "id": "55588",
@@ -15770,6 +16201,26 @@
    "url": "www.morabk.com"
   },
   {
+   "id": "56442",
+   "datum": "2027-07-03",
+   "slutdatum": "2027-07-03",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Gefle",
+   "distrikt": "Schäfer Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:13",
+   "anmalan_slut": "2027-06-12 23:59",
+   "klasser": [
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
+  },
+  {
    "id": "55217",
    "datum": "2027-07-03",
    "slutdatum": "2027-07-03",
@@ -16012,6 +16463,24 @@
     "Lydnadsklass 1"
    ],
    "url": "http://www.motalabrukshundklubb.se"
+  },
+  {
+   "id": "56220",
+   "datum": "2027-07-10",
+   "slutdatum": "2027-07-11",
+   "typ": "Bruks",
+   "klubb": "Schäferhundklubben Romelanda",
+   "distrikt": "Schäfer Västra",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:08",
+   "anmalan_slut": "2027-06-19 23:59",
+   "klasser": [
+    "Spår appellklass",
+    "Spår lägre klass",
+    "Spår högre klass",
+    "Spår elitklass"
+   ],
+   "url": ""
   },
   {
    "id": "56257",
@@ -17600,6 +18069,27 @@
    "url": "www.ronnebybrukshundklubb.se"
   },
   {
+   "id": "56647",
+   "datum": "2027-08-15",
+   "slutdatum": "2027-08-15",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Umeå",
+   "distrikt": "Schäfer Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:25",
+   "anmalan_slut": "2027-07-25 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skumea.se"
+  },
+  {
    "id": "56196",
    "datum": "2027-08-15",
    "slutdatum": "2027-08-15",
@@ -17863,6 +18353,24 @@
     "Lydnadsklass 3"
    ],
    "url": "http://www.sjobobk.se"
+  },
+  {
+   "id": "56689",
+   "datum": "2027-08-21",
+   "slutdatum": "2027-08-21",
+   "typ": "Bruks",
+   "klubb": "Svenska Briard- och Picardklubben",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:08",
+   "anmalan_slut": "2027-07-31 23:59",
+   "klasser": [
+    "Spår appellklass",
+    "Spår lägre klass",
+    "Spår högre klass",
+    "Spår elitklass"
+   ],
+   "url": "www.briardpicardklubben.se"
   },
   {
    "id": "55437",
@@ -19736,6 +20244,27 @@
    "url": "www.orustbrukshundklubb.se"
   },
   {
+   "id": "56648",
+   "datum": "2027-09-11",
+   "slutdatum": "2027-09-11",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Umeå",
+   "distrikt": "Schäfer Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:25",
+   "anmalan_slut": "2027-08-21 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "www.skumea.se"
+  },
+  {
    "id": "56630",
    "datum": "2027-09-11",
    "slutdatum": "2027-09-11",
@@ -20388,6 +20917,22 @@
    "url": "www.sbkattila.se"
   },
   {
+   "id": "56958",
+   "datum": "2027-09-18",
+   "slutdatum": "2027-09-18",
+   "typ": "Rallylydnad",
+   "klubb": "Skutskärs Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 13:52",
+   "anmalan_slut": "2027-08-28 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning"
+   ],
+   "url": "www.skutskarsbrukshund.com"
+  },
+  {
    "id": "56576",
    "datum": "2027-09-18",
    "slutdatum": "2027-09-18",
@@ -20939,6 +21484,24 @@
    "url": "http://www.a-lbk.se"
   },
   {
+   "id": "56946",
+   "datum": "2027-09-24",
+   "slutdatum": "2027-09-24",
+   "typ": "Lydnad",
+   "klubb": "Svenska hovawartklubben",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2027-09-03 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnadsklass 1",
+    "Lydnadsklass 2",
+    "Lydnadsklass 3"
+   ],
+   "url": ""
+  },
+  {
    "id": "56187",
    "datum": "2027-09-25",
    "slutdatum": "2027-09-25",
@@ -21116,6 +21679,48 @@
    "url": "http://www.sbkgoteborg.se/"
   },
   {
+   "id": "56748",
+   "datum": "2027-09-25",
+   "slutdatum": "2027-09-25",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Habo",
+   "distrikt": "Schäfer Småland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:15",
+   "anmalan_slut": "2027-09-04 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "http://www.skhabo.se"
+  },
+  {
+   "id": "56808",
+   "datum": "2027-09-25",
+   "slutdatum": "2027-09-25",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Habo",
+   "distrikt": "Schäfer Småland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:16",
+   "anmalan_slut": "2027-09-04 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "http://www.skhabo.se"
+  },
+  {
    "id": "55884",
    "datum": "2027-09-25",
    "slutdatum": "2027-09-25",
@@ -21164,6 +21769,23 @@
     "Sök elitklass"
    ],
    "url": "http://www.strangnasbk.com"
+  },
+  {
+   "id": "56947",
+   "datum": "2027-09-25",
+   "slutdatum": "2027-09-25",
+   "typ": "Bruks",
+   "klubb": "Svenska hovawartklubben",
+   "distrikt": "Rasklubb",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:09",
+   "anmalan_slut": "2027-09-04 23:59",
+   "klasser": [
+    "Spår lägre klass",
+    "Spår högre klass",
+    "Spår elitklass"
+   ],
+   "url": ""
   },
   {
    "id": "55662",
@@ -22287,6 +22909,24 @@
     "Spår högre klass"
    ],
    "url": "sbkhalmstad.se"
+  },
+  {
+   "id": "56431",
+   "datum": "2027-10-09",
+   "slutdatum": "2027-10-09",
+   "typ": "IGP",
+   "klubb": "Svenska Rottweilerklubben Uppland",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:26",
+   "anmalan_slut": "2027-09-18 23:59",
+   "klasser": [
+    "BH/VT",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": "http://upplandslorottweilerklubben.se/"
   },
   {
    "id": "55686",
@@ -23475,6 +24115,29 @@
     "Lydnadsklass 3"
    ],
    "url": "http://www.sbkgoteborg.se/"
+  },
+  {
+   "id": "56612",
+   "datum": "2027-10-31",
+   "slutdatum": "2027-10-31",
+   "typ": "IGP",
+   "klubb": "Schäferhundklubben Forshaga",
+   "distrikt": "Schäfer Värmland",
+   "status": "opened",
+   "anmalan_start": "2026-11-16 12:14",
+   "anmalan_slut": "2027-10-10 23:59",
+   "klasser": [
+    "BH/VT",
+    "BSL Klass 1",
+    "BSL Klass 2",
+    "BSL Klass 3",
+    "IFH 1 ",
+    "IFH 2 ",
+    "IGP-1",
+    "IGP-2",
+    "IGP-3"
+   ],
+   "url": ""
   },
   {
    "id": "56432",
