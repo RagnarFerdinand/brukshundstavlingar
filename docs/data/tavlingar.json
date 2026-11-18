@@ -1,5 +1,5 @@
 {
- "uppdaterad": "2026-11-17",
+ "uppdaterad": "2026-11-18",
  "tavlingar": [
   {
    "id": "54664",
@@ -399,7 +399,7 @@
    "typ": "Exteriörbeskrivning",
    "klubb": "Uppsala Brukshundklubb",
    "distrikt": "Uppland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-11-02 15:11",
    "anmalan_slut": "2026-11-04 23:59",
    "klasser": [
@@ -1193,9 +1193,10 @@
    "klubb": "Schäferhundklubben Romelanda",
    "distrikt": "Schäfer Västra",
    "status": "closed",
-   "anmalan_start": "2026-09-30 10:27",
-   "anmalan_slut": "2026-11-15 23:59",
+   "anmalan_start": "",
+   "anmalan_slut": "",
    "klasser": [
+    "Mentalbeskrivning (MH)",
     "Mentalbeskrivning (MH)"
    ],
    "url": ""
@@ -6979,24 +6980,6 @@
    "url": "http://lerumsbk.se/"
   },
   {
-   "id": "56888",
-   "datum": "2027-04-24",
-   "slutdatum": "2027-04-24",
-   "typ": "Rallylydnad",
-   "klubb": "Lidköpings Brukshundklubb",
-   "distrikt": "Skaraborg",
-   "status": "opened",
-   "anmalan_start": "2026-11-10 17:29",
-   "anmalan_slut": "2027-04-03 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare",
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": "http://www.lidkopingbk.se"
-  },
-  {
    "id": "55440",
    "datum": "2027-04-24",
    "slutdatum": "2027-04-24",
@@ -7590,24 +7573,6 @@
     "Spår elitklass"
    ],
    "url": "http://lerumsbk.se/"
-  },
-  {
-   "id": "56889",
-   "datum": "2027-04-25",
-   "slutdatum": "2027-04-25",
-   "typ": "Rallylydnad",
-   "klubb": "Lidköpings Brukshundklubb",
-   "distrikt": "Skaraborg",
-   "status": "opened",
-   "anmalan_start": "2026-11-10 17:29",
-   "anmalan_slut": "2027-04-04 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning",
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": "http://www.lidkopingbk.se"
   },
   {
    "id": "56678",
@@ -8238,6 +8203,21 @@
    "url": "http://lerumsbk.se/"
   },
   {
+   "id": "56889",
+   "datum": "2027-05-01",
+   "slutdatum": "2027-05-01",
+   "typ": "Rallylydnad",
+   "klubb": "Lidköpings Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "",
+   "anmalan_start": "",
+   "anmalan_slut": "",
+   "klasser": [
+    "Rallylydnad nybörjare"
+   ],
+   "url": "http://www.lidkopingbk.se"
+  },
+  {
    "id": "56707",
    "datum": "2027-05-01",
    "slutdatum": "2027-05-01",
@@ -8660,6 +8640,24 @@
     "Rallylydnad mästare"
    ],
    "url": "www.kopparbergsbk.se"
+  },
+  {
+   "id": "56888",
+   "datum": "2027-05-02",
+   "slutdatum": "2027-05-02",
+   "typ": "Rallylydnad",
+   "klubb": "Lidköpings Brukshundklubb",
+   "distrikt": "Skaraborg",
+   "status": "opened",
+   "anmalan_start": "",
+   "anmalan_slut": "2027-04-11 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning"
+   ],
+   "url": "http://www.lidkopingbk.se"
   },
   {
    "id": "56708",
