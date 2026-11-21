@@ -1,37 +1,6 @@
 {
- "uppdaterad": "2026-11-20",
+ "uppdaterad": "2026-11-21",
  "tavlingar": [
-  {
-   "id": "56770",
-   "datum": "2026-11-20",
-   "slutdatum": "2026-11-20",
-   "typ": "Exteriörbeskrivning",
-   "klubb": "Enköpings Brukshundklubb",
-   "distrikt": "Uppland",
-   "status": "closed",
-   "anmalan_start": "2026-11-02 09:40",
-   "anmalan_slut": "2026-10-30 23:59",
-   "klasser": [
-    "Exteriörbeskrivning"
-   ],
-   "url": "www.enkopingsbk.se"
-  },
-  {
-   "id": "55592",
-   "datum": "2026-11-20",
-   "slutdatum": "2026-11-20",
-   "typ": "Rallylydnad",
-   "klubb": "Linköpings Hundungdom",
-   "distrikt": "Östergötland",
-   "status": "closed",
-   "anmalan_start": "2026-09-24 06:20",
-   "anmalan_slut": "2026-10-30 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning"
-   ],
-   "url": "http://linkopingshu.se/"
-  },
   {
    "id": "55738",
    "datum": "2026-11-21",
@@ -173,7 +142,7 @@
    "url": "http://www.gotenebk.com"
   },
   {
-   "id": "55098",
+   "id": "55099",
    "datum": "2026-11-22",
    "slutdatum": "2026-11-22",
    "typ": "Lydnad",
@@ -188,7 +157,7 @@
    "url": "http://www.haningebk.se"
   },
   {
-   "id": "55099",
+   "id": "55098",
    "datum": "2026-11-22",
    "slutdatum": "2026-11-22",
    "typ": "Lydnad",
@@ -660,6 +629,21 @@
    "url": "http://www.ahusbk.se"
   },
   {
+   "id": "56972",
+   "datum": "2026-11-28",
+   "slutdatum": "2026-11-28",
+   "typ": "Bruks",
+   "klubb": "Åhus Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "closed",
+   "anmalan_start": "2026-11-20 13:19",
+   "anmalan_slut": "2026-11-07 23:59",
+   "klasser": [
+    "Spår elitklass"
+   ],
+   "url": "http://www.ahusbk.se"
+  },
+  {
    "id": "55374",
    "datum": "2026-11-28",
    "slutdatum": "2026-11-28",
@@ -851,6 +835,21 @@
     "Spår appellklass"
    ],
    "url": "http://www.varbergsbk.se"
+  },
+  {
+   "id": "56973",
+   "datum": "2026-11-29",
+   "slutdatum": "2026-11-29",
+   "typ": "Bruks",
+   "klubb": "Åhus Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "closed",
+   "anmalan_start": "2026-11-20 13:19",
+   "anmalan_slut": "2026-11-08 23:59",
+   "klasser": [
+    "Spår elitklass"
+   ],
+   "url": "http://www.ahusbk.se"
   },
   {
    "id": "56911",
@@ -1404,7 +1403,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Schäferhundklubben Habo",
    "distrikt": "Schäfer Småland",
-   "status": "opened",
+   "status": "published",
    "anmalan_start": "2026-11-09 18:10",
    "anmalan_slut": "2026-11-22 23:59",
    "klasser": [
@@ -1644,6 +1643,21 @@
     "Rallylydnad avancerad"
    ],
    "url": "http://www.ulricehamnsbk.se"
+  },
+  {
+   "id": "56975",
+   "datum": "2026-12-27",
+   "slutdatum": "2026-12-27",
+   "typ": "Specialsök",
+   "klubb": "Uppsala Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-11-20 21:10",
+   "anmalan_slut": "2026-12-06 23:59",
+   "klasser": [
+    "Specialsök klass 1"
+   ],
+   "url": "uppsalabrukshundklubb.se/"
   },
   {
    "id": "55387",
@@ -2150,6 +2164,24 @@
     "Lydnadsklass 1"
    ],
    "url": "http://www.nackabk.nu"
+  },
+  {
+   "id": "56974",
+   "datum": "2027-01-23",
+   "slutdatum": "2027-01-23",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-21 09:51",
+   "anmalan_slut": "2027-01-02 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
   },
   {
    "id": "56952",
