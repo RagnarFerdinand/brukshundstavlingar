@@ -1,40 +1,6 @@
 {
- "uppdaterad": "2026-11-23",
+ "uppdaterad": "2026-11-24",
  "tavlingar": [
-  {
-   "id": "55296",
-   "datum": "2026-11-23",
-   "slutdatum": "2026-11-23",
-   "typ": "Rallylydnad",
-   "klubb": "Curly Coated Retriever Klubben",
-   "distrikt": "Rasklubb",
-   "status": "closed",
-   "anmalan_start": "2026-07-27 10:14",
-   "anmalan_slut": "2026-11-02 23:59",
-   "klasser": [
-    "Rallylydnad mästare",
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": "curlycoated.se"
-  },
-  {
-   "id": "55237",
-   "datum": "2026-11-23",
-   "slutdatum": "2026-11-23",
-   "typ": "Rallylydnad",
-   "klubb": "Piteå Hundungdom",
-   "distrikt": "Övre Norrland",
-   "status": "closed",
-   "anmalan_start": "2026-07-09 10:45",
-   "anmalan_slut": "2026-11-02 23:59",
-   "klasser": [
-    "Rallylydnad fortsättning",
-    "Rallylydnad fortsättning",
-    "Rallylydnad nybörjare"
-   ],
-   "url": "www.piteahundungdom.weebly.com"
-  },
   {
    "id": "54794",
    "datum": "2026-11-24",
@@ -50,6 +16,21 @@
     "Lydnad Startklass"
    ],
    "url": "www.gavlebk.se"
+  },
+  {
+   "id": "56987",
+   "datum": "2026-11-25",
+   "slutdatum": "2026-11-25",
+   "typ": "Lydnad",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "closed",
+   "anmalan_start": "2026-11-24 10:12",
+   "anmalan_slut": "2026-11-04 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
    "id": "56781",
@@ -73,7 +54,7 @@
    "typ": "Rallylydnad",
    "klubb": "Borlänge Brukshundklubb",
    "distrikt": "Dalarna",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-10-26 11:59",
    "anmalan_slut": "2026-11-05 23:59",
    "klasser": [
@@ -962,7 +943,7 @@
    "typ": "Specialsök",
    "klubb": "Alingsås Brukshundklubb",
    "distrikt": "Västra",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-10-20 15:26",
    "anmalan_slut": "2026-11-21 23:59",
    "klasser": [
@@ -1075,7 +1056,7 @@
    "typ": "Specialsök",
    "klubb": "Söderhamns Brukshundklubb",
    "distrikt": "Gävleborg",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-10-28 09:13",
    "anmalan_slut": "2026-11-21 23:59",
    "klasser": [
@@ -1155,7 +1136,7 @@
    "typ": "Mentalbeskrivning (MH)",
    "klubb": "Schäferhundklubben Habo",
    "distrikt": "Schäfer Småland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-11-09 18:10",
    "anmalan_slut": "2026-11-22 23:59",
    "klasser": [
@@ -1201,11 +1182,12 @@
    "typ": "Specialsök",
    "klubb": "Fagersta Brukshundklubb",
    "distrikt": "Västmanland",
-   "status": "opened",
+   "status": "late",
    "anmalan_start": "2026-11-10 13:51",
    "anmalan_slut": "2026-11-23 23:59",
    "klasser": [
-    "Specialsök klass 2"
+    "Specialsök klass 2",
+    "Specialsök klass 1"
    ],
    "url": "http://www.fagerstabk.com"
   },
@@ -1790,6 +1772,22 @@
    "url": "www.ragundabhk.com"
   },
   {
+   "id": "56988",
+   "datum": "2027-01-16",
+   "slutdatum": "2027-01-16",
+   "typ": "Rallylydnad",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 10:35",
+   "anmalan_slut": "2026-12-26 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
+  },
+  {
    "id": "56334",
    "datum": "2027-01-16",
    "slutdatum": "2027-01-16",
@@ -1835,6 +1833,22 @@
     "Specialsök klass 3"
    ],
    "url": "www.dtbk.se"
+  },
+  {
+   "id": "56989",
+   "datum": "2027-01-17",
+   "slutdatum": "2027-01-17",
+   "typ": "Rallylydnad",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 10:34",
+   "anmalan_slut": "2026-12-27 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
    "id": "56485",
@@ -2549,6 +2563,22 @@
     "Spår högre klass"
    ],
    "url": "http://www.sjobobk.se"
+  },
+  {
+   "id": "56971",
+   "datum": "2027-02-20",
+   "slutdatum": "2027-02-20",
+   "typ": "Lydnad",
+   "klubb": "Valbo Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-23 13:21",
+   "anmalan_slut": "2027-01-30 23:59",
+   "klasser": [
+    "Lydnad Startklass",
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.valbobk.se"
   },
   {
    "id": "56926",
@@ -6652,7 +6682,7 @@
    "url": "https://www.gnesta-trosa-bk.se/"
   },
   {
-   "id": "56455",
+   "id": "56454",
    "datum": "2027-04-24",
    "slutdatum": "2027-04-24",
    "typ": "Bruks",
@@ -6662,8 +6692,7 @@
    "anmalan_start": "2026-10-30 06:59",
    "anmalan_slut": "2027-04-03 23:59",
    "klasser": [
-    "Sök högre klass",
-    "Sök lägre klass"
+    "Sök elitklass"
    ],
    "url": "www.goinge-broby.se"
   },
@@ -7203,42 +7232,6 @@
    "url": "http://www.orebrobk.nu"
   },
   {
-   "id": "55735",
-   "datum": "2027-04-25",
-   "slutdatum": "2027-04-25",
-   "typ": "Lydnad",
-   "klubb": "Bjuvs Brukshundklubb",
-   "distrikt": "Skåne",
-   "status": "opened",
-   "anmalan_start": "2026-11-23 12:21",
-   "anmalan_slut": "2027-04-04 23:59",
-   "klasser": [
-    "Lydnad Startklass",
-    "Lydnadsklass 1",
-    "Lydnadsklass 2",
-    "Lydnadsklass 3"
-   ],
-   "url": ""
-  },
-  {
-   "id": "55811",
-   "datum": "2027-04-25",
-   "slutdatum": "2027-04-25",
-   "typ": "Lydnad",
-   "klubb": "Bjuvs Brukshundklubb",
-   "distrikt": "Skåne",
-   "status": "opened",
-   "anmalan_start": "2026-11-23 12:21",
-   "anmalan_slut": "2027-04-04 23:59",
-   "klasser": [
-    "Lydnad Startklass",
-    "Lydnadsklass 1",
-    "Lydnadsklass 2",
-    "Lydnadsklass 3"
-   ],
-   "url": ""
-  },
-  {
    "id": "55923",
    "datum": "2027-04-25",
    "slutdatum": "2027-04-25",
@@ -7285,7 +7278,7 @@
    "url": ""
   },
   {
-   "id": "56454",
+   "id": "56455",
    "datum": "2027-04-25",
    "slutdatum": "2027-04-25",
    "typ": "Bruks",
@@ -7295,7 +7288,8 @@
    "anmalan_start": "2026-10-30 06:59",
    "anmalan_slut": "2027-04-04 23:59",
    "klasser": [
-    "Sök elitklass"
+    "Sök högre klass",
+    "Sök lägre klass"
    ],
    "url": "www.goinge-broby.se"
   },
@@ -20960,42 +20954,6 @@
    "url": "http://www.visbybk.se"
   },
   {
-   "id": "55809",
-   "datum": "2027-09-19",
-   "slutdatum": "2027-09-19",
-   "typ": "Rallylydnad",
-   "klubb": "Bjuvs Brukshundklubb",
-   "distrikt": "Skåne",
-   "status": "opened",
-   "anmalan_start": "2026-10-06 19:48",
-   "anmalan_slut": "2027-08-29 23:59",
-   "klasser": [
-    "Rallylydnad nybörjare",
-    "Rallylydnad nybörjare",
-    "Rallylydnad mästare",
-    "Rallylydnad mästare"
-   ],
-   "url": ""
-  },
-  {
-   "id": "55810",
-   "datum": "2027-09-19",
-   "slutdatum": "2027-09-19",
-   "typ": "Lydnad",
-   "klubb": "Bjuvs Brukshundklubb",
-   "distrikt": "Skåne",
-   "status": "opened",
-   "anmalan_start": "2026-11-23 12:21",
-   "anmalan_slut": "2027-08-29 23:59",
-   "klasser": [
-    "Lydnad Startklass",
-    "Lydnadsklass 1",
-    "Lydnadsklass 2",
-    "Lydnadsklass 3"
-   ],
-   "url": ""
-  },
-  {
    "id": "55736",
    "datum": "2027-09-19",
    "slutdatum": "2027-09-19",
@@ -21010,6 +20968,24 @@
     "Lydnadsklass 1",
     "Lydnadsklass 2",
     "Lydnadsklass 3"
+   ],
+   "url": ""
+  },
+  {
+   "id": "55809",
+   "datum": "2027-09-19",
+   "slutdatum": "2027-09-19",
+   "typ": "Rallylydnad",
+   "klubb": "Bjuvs Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "opened",
+   "anmalan_start": "2026-10-06 19:48",
+   "anmalan_slut": "2027-08-29 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
    ],
    "url": ""
   },
@@ -23017,6 +22993,22 @@
     "Spår appellklass"
    ],
    "url": "www.forserumsbk.se"
+  },
+  {
+   "id": "56984",
+   "datum": "2027-10-10",
+   "slutdatum": "2027-10-10",
+   "typ": "Bruks",
+   "klubb": "Göinge-Broby Brukshundklubb",
+   "distrikt": "Skåne",
+   "status": "opened",
+   "anmalan_start": "2026-11-23 15:52",
+   "anmalan_slut": "2027-09-19 23:59",
+   "klasser": [
+    "Spår appellklass",
+    "Sök appellklass"
+   ],
+   "url": "www.goinge-broby.se"
   },
   {
    "id": "55202",
