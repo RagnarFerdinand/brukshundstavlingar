@@ -1,22 +1,6 @@
 {
- "uppdaterad": "2026-11-24",
+ "uppdaterad": "2026-11-25",
  "tavlingar": [
-  {
-   "id": "54794",
-   "datum": "2026-11-24",
-   "slutdatum": "2026-11-24",
-   "typ": "Lydnad",
-   "klubb": "Gävle Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-04-29 17:41",
-   "anmalan_slut": "2026-11-03 23:59",
-   "klasser": [
-    "Lydnad Startklass",
-    "Lydnad Startklass"
-   ],
-   "url": "www.gavlebk.se"
-  },
   {
    "id": "56987",
    "datum": "2026-11-25",
@@ -1026,7 +1010,7 @@
    "typ": "Exteriörbeskrivning",
    "klubb": "Schäferhundklubben Jönköping",
    "distrikt": "Schäfer Småland",
-   "status": "closed",
+   "status": "late",
    "anmalan_start": "2026-11-11 16:33",
    "anmalan_slut": "2026-11-21 23:59",
    "klasser": [
@@ -1118,7 +1102,7 @@
    "typ": "Lydnad",
    "klubb": "SBK:s Göteborgsavdelning",
    "distrikt": "Västra",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2025-11-02 10:06",
    "anmalan_slut": "2026-11-22 23:59",
    "klasser": [
@@ -5769,6 +5753,24 @@
    "url": "http://www.oskarstromsbrukshundsklubb.se/"
   },
   {
+   "id": "56979",
+   "datum": "2027-04-17",
+   "slutdatum": "2027-04-17",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 18:08",
+   "anmalan_slut": "2027-03-27 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare",
+    "Rallylydnad avancerad",
+    "Rallylydnad avancerad"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
+  },
+  {
    "id": "56050",
    "datum": "2027-04-17",
    "slutdatum": "2027-04-17",
@@ -6265,6 +6267,24 @@
     "Spår appellklass"
    ],
    "url": "http://www.oskarstromsbrukshundsklubb.se/"
+  },
+  {
+   "id": "56980",
+   "datum": "2027-04-18",
+   "slutdatum": "2027-04-18",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 18:08",
+   "anmalan_slut": "2027-03-28 23:59",
+   "klasser": [
+    "Rallylydnad fortsättning",
+    "Rallylydnad fortsättning",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
   },
   {
    "id": "56051",
@@ -17792,6 +17812,23 @@
    "url": "www.ngbk.org"
   },
   {
+   "id": "56990",
+   "datum": "2027-08-14",
+   "slutdatum": "2027-08-14",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 18:08",
+   "anmalan_slut": "2027-07-24 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
+  },
+  {
    "id": "55883",
    "datum": "2027-08-14",
    "slutdatum": "2027-08-14",
@@ -17974,6 +18011,23 @@
     "Lydnadsklass 3"
    ],
    "url": "http://svenskabrukshundklubben/nässjö bk"
+  },
+  {
+   "id": "56991",
+   "datum": "2027-08-15",
+   "slutdatum": "2027-08-15",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-24 18:08",
+   "anmalan_slut": "2027-07-25 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
   },
   {
    "id": "55726",
