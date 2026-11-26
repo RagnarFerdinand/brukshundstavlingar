@@ -1,36 +1,6 @@
 {
- "uppdaterad": "2026-11-25",
+ "uppdaterad": "2026-11-26",
  "tavlingar": [
-  {
-   "id": "56987",
-   "datum": "2026-11-25",
-   "slutdatum": "2026-11-25",
-   "typ": "Lydnad",
-   "klubb": "Hudiksvalls Brukshundklubb",
-   "distrikt": "Gävleborg",
-   "status": "closed",
-   "anmalan_start": "2026-11-24 10:12",
-   "anmalan_slut": "2026-11-04 23:59",
-   "klasser": [
-    "Lydnad Startklass"
-   ],
-   "url": "http://www.hudiksvallsbrukshundklubb.se"
-  },
-  {
-   "id": "56781",
-   "datum": "2026-11-25",
-   "slutdatum": "2026-11-25",
-   "typ": "Exteriörbeskrivning",
-   "klubb": "Uppsala Brukshundklubb",
-   "distrikt": "Uppland",
-   "status": "closed",
-   "anmalan_start": "2026-11-02 15:11",
-   "anmalan_slut": "2026-11-04 23:59",
-   "klasser": [
-    "Exteriörbeskrivning"
-   ],
-   "url": "uppsalabrukshundklubb.se/"
-  },
   {
    "id": "56420",
    "datum": "2026-11-26",
@@ -264,17 +234,13 @@
    "typ": "IGP",
    "klubb": "Svenska Brukshundsklubbens Malmöavd",
    "distrikt": "Skåne",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-11-05 15:41",
    "anmalan_slut": "2026-11-07 23:59",
    "klasser": [
     "IGP-1",
-    "IGP-2",
     "IGP-3",
-    "BH/VT",
-    "BSL Klass 1",
-    "BSL Klass 2",
-    "BSL Klass 3"
+    "BH/VT"
    ],
    "url": "http://www.sbkmalmo.se/"
   },
@@ -700,7 +666,7 @@
    "typ": "Rallylydnad",
    "klubb": "Piteå Hundungdom",
    "distrikt": "Övre Norrland",
-   "status": "late",
+   "status": "closed",
    "anmalan_start": "2026-07-09 10:45",
    "anmalan_slut": "2026-11-14 23:59",
    "klasser": [
@@ -959,13 +925,14 @@
    "klubb": "Höganäs Brukshundklubb",
    "distrikt": "Skåne",
    "status": "closed",
-   "anmalan_start": "2025-10-21 18:33",
-   "anmalan_slut": "2026-11-21 23:59",
+   "anmalan_start": "",
+   "anmalan_slut": "",
    "klasser": [
     "Lydnad Startklass",
     "Lydnadsklass 1",
     "Lydnadsklass 2",
-    "Lydnadsklass 3"
+    "Lydnadsklass 3",
+    "Lydnad Startklass"
    ],
    "url": "http://hoganas-bk.se"
   },
@@ -1205,6 +1172,22 @@
     "Specialsök klass 1"
    ],
    "url": "http://www.lidkopingbk.se"
+  },
+  {
+   "id": "57000",
+   "datum": "2026-12-17",
+   "slutdatum": "2026-12-17",
+   "typ": "Rallylydnad",
+   "klubb": "Piteå Hundungdom",
+   "distrikt": "Övre Norrland",
+   "status": "opened",
+   "anmalan_start": "2026-11-25 16:15",
+   "anmalan_slut": "2026-11-26 23:59",
+   "klasser": [
+    "Rallylydnad nybörjare",
+    "Rallylydnad nybörjare"
+   ],
+   "url": "www.piteahundungdom.weebly.com"
   },
   {
    "id": "55563",
@@ -1545,6 +1528,22 @@
     "Lydnad Startklass"
    ],
    "url": "hallsbergsbk.se"
+  },
+  {
+   "id": "56998",
+   "datum": "2027-01-05",
+   "slutdatum": "2027-01-05",
+   "typ": "Rallylydnad",
+   "klubb": "Karlstad Brukshundklubb",
+   "distrikt": "Värmland-Dal",
+   "status": "opened",
+   "anmalan_start": "2026-11-25 14:07",
+   "anmalan_slut": "2026-12-15 23:59",
+   "klasser": [
+    "Rallylydnad mästare",
+    "Rallylydnad mästare"
+   ],
+   "url": "http://www.karlstadbk.com"
   },
   {
    "id": "56898",
@@ -2059,6 +2058,21 @@
     "Lydnad Startklass"
    ],
    "url": "http://www.haningebk.se"
+  },
+  {
+   "id": "57004",
+   "datum": "2027-01-24",
+   "slutdatum": "2027-01-24",
+   "typ": "Lydnad",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-25 21:56",
+   "anmalan_slut": "2027-01-03 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
    "id": "54797",
@@ -2598,6 +2612,21 @@
    "url": "www.amalsbhk.se"
   },
   {
+   "id": "56999",
+   "datum": "2027-02-20",
+   "slutdatum": "2027-02-20",
+   "typ": "Specialsök",
+   "klubb": "Östhammar Brukshundklubb",
+   "distrikt": "Uppland",
+   "status": "opened",
+   "anmalan_start": "2026-11-25 15:21",
+   "anmalan_slut": "2027-01-30 23:59",
+   "klasser": [
+    "Specialsök klass 2"
+   ],
+   "url": "https://osthammarsbk.wordpress.com/"
+  },
+  {
    "id": "56109",
    "datum": "2027-02-21",
    "slutdatum": "2027-02-21",
@@ -2821,6 +2850,21 @@
     "Lydnadsklass 3"
    ],
    "url": "http://www.haningebk.se"
+  },
+  {
+   "id": "57005",
+   "datum": "2027-02-28",
+   "slutdatum": "2027-02-28",
+   "typ": "Lydnad",
+   "klubb": "Hudiksvalls Brukshundklubb",
+   "distrikt": "Gävleborg",
+   "status": "opened",
+   "anmalan_start": "2026-11-25 21:56",
+   "anmalan_slut": "2027-02-07 23:59",
+   "klasser": [
+    "Lydnad Startklass"
+   ],
+   "url": "http://www.hudiksvallsbrukshundklubb.se"
   },
   {
    "id": "55451",
